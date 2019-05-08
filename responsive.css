@@ -1,0 +1,4400 @@
+@media only screen and (max-width: 1900px) {
+    .car-detail .car-detail-content .vehicles-extra-link ul li{
+        width:32.33%;
+        margin-bottom:5px;
+    }
+}
+@media only screen and (min-width: 1370px) and (max-width: 1900px) {
+    .nav-holder > ul > li > a {
+        padding: 15px 33px;
+    }
+}
+@media all and (min-width:1400px) {
+
+
+    .kap-slider-nav .heading {
+        font: 700 35px/50px Arial,Verdana,sans-serif;
+    }
+
+    .slider-caption .col-right .image-right {
+        background-size: 70% auto !important;
+    }
+
+    .slider-caption .col-left .image-left {
+        background-size: 70% auto !important;
+    }
+
+    .kap-slider-nav .heading {
+        padding: 20px 35px 20px 10px;
+    }
+    
+}
+
+@media only screen and (max-width: 1368px) and (min-width:1025px) {
+    .nav-holder > ul > li > a {
+        padding: 15px 15px;
+    }
+
+    .kap-branches .branch ul li {
+        font-size: 12px;
+    }
+    
+    .portrait .car-detail-content .col-70{
+        padding:0;
+    }
+    .portrait .car-detail .car-detail-content .vehicles-extra-link ul li{
+        padding:0 5px;
+    }
+    .portrait .monthly-installment img{
+        width:17%;
+    }
+    .car-detail-content .col-30 .car-img{
+        padding-right:10px;
+    }
+}
+
+@media all and (max-width: 1110px) {
+    .brand-slider .bx-wrapper .bx-next {
+        margin: -38px 0 0;
+    }
+
+    .brand-slider .bx-wrapper .bx-prev {
+        margin: -40px 0 0;
+    }
+
+    .car-search-area .car-search-selection .budget-rang-area,
+    .car-search-area .car-search-selection .running-costs-area,
+    .car-search-area .car-search-selection .drving-speed-area,
+    .car-search-area .car-search-selection .inusrance-costs-area {
+        padding: 0 50px;
+    }
+}
+
+@media all and (max-width: 1024px) {
+    .view-sorting{
+        display:none;
+    }
+    .latest-vehicles .bx-wrapper .bx-controls-direction a.bx-next {
+        margin: -70px 0 0 !important;
+    }
+
+    .latest-vehicles .bx-wrapper .bx-controls-direction a.bx-prev {
+        margin: -70px 0 0 !important;
+    }
+
+    .nav-holder > ul > li > a {
+        padding: 10px 25px;
+    }
+
+    .slider-caption {
+        max-width: 100%;
+        padding: 0;
+    }
+
+        .slider-caption .col-left .caption-content-wrapper {
+            left: 10%;
+        }
+
+        .slider-caption .col-left .image-left {
+            position: relative;
+            left: -30%;
+            background-size: 100% !important;
+        }
+
+        .slider-caption .col-right .image-right {
+            position: relative;
+            right: -30%;
+            background-size: 100% !important;
+        }
+
+        .slider-caption h2 {
+            font-size: 25px;
+            line-height: 30px;
+        }
+
+    .kap-slider-nav .heading {
+        padding: 20px 10px;
+    }
+
+    .kap_tab_content .kap-services li a .list-circle img {
+        width: 80%;
+    }
+
+    .kap_tab_content .kap-services li a span {
+        font-size: 14px;
+    }
+
+    section.cars-list {
+        max-width: 100%;
+    }
+
+    .service-center .kap-services li {
+        width: 33.33%;
+    }
+    .car-detail-content .col-70{
+        padding:0 10px;
+    }
+    .car-detail .car-detail-content .vehicles-extra-link ul li {
+        display: inline-block;
+        margin-bottom: 10px;
+        width: 49%;
+    }
+    .car-detail .car-detail-header h2,
+    .car-detail .car-detail-header h1 {
+        font-size: 22px;
+        line-height: 22px;
+    }
+    .car-detail-header .col-70{
+        width:100%;
+    }
+    .car-detail-header .col-30{
+        width:100%;
+    }
+    .cars-listing .car-detail-wrapper.portrait{
+        width:50%;
+    }
+    .portrait .car-detail-content .col-70 {
+        padding: 0;
+        width: 100%;
+    }
+    .car-detail .car-detail-content .vehicles-extra-link ul li em{
+        display:none;
+    }
+    .used-car-listing .product-wrapper.portrait{
+        width:50%;
+    }
+}
+
+@media only screen and (min-width:980px) and (max-width:1024px) {
+    .detail-tabs .tab-content .gallery-frame {
+        max-width: 800px;
+    }
+}
+
+@media all and (max-width: 980px) {
+    body {
+        font-size: 13px;
+        line-height: 16px;
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        -o-box-sizing: border-box;
+        -ms-box-sizing: border-box;
+    }
+
+        body * {
+            box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            -webkit-box-sizing: border-box;
+            -o-box-sizing: border-box;
+            -ms-box-sizing: border-box;
+        }
+
+    .jcf-checkbox span {
+        width: 11px;
+        height: 7px;
+    }
+
+    .jcf-select {
+        height: 32px;
+    }
+
+    h2 {
+        font-size: 25px;
+        line-height: 28px;
+    }
+
+    .graphics {
+        display: none;
+    }
+
+    .home #main #content {
+        padding: 0 10px;
+    }
+
+    .intro-holder .intro-text {
+        right: 0;
+        top: 40%;
+    }
+
+    .nav-holder > ul > li > a {
+        padding: 10px 10px;
+        font-size: 12px;
+    }
+
+        .nav-holder > ul > li > a span {
+            font-size: 14px;
+        }
+
+    .nav-frame .nav-holder > ul > li.logo {
+        width: 140px;
+    }
+
+    .nav-holder > ul {
+        width: 100%;
+    }
+
+        .nav-holder > ul.add > li {
+            margin: 0 0 0 2%;
+        }
+
+    .nav-holder .dropdown .drop-holder h2 {
+        font-size: 18px;
+        line-height: 22px;
+        margin: 0 0 10px;
+    }
+
+    .nav-holder .dropdown .drop-holder h3 {
+        margin: 0 0 5px;
+        font-size: 11px;
+        line-height: 16px;
+    }
+
+    .nav-holder .dropdown address {
+        font-size: 11px;
+        line-height: 16px;
+    }
+
+    .nav-holder .dropdown .drop-holder h4 {
+        font-size: 11px;
+    }
+
+    .nav-holder .dropdown dl {
+        font-size: 11px;
+    }
+
+    .nav-holder .dropdown .branch-link {
+        font-size: 11px;
+        line-height: 19px;
+    }
+
+    .tabs-area {
+        display: none;
+    }
+
+    .live-chat {
+        display: none;
+    }
+
+    .post-area.map-screen {
+        margin: 50px 0;
+        padding: 0 0 20px;
+        border-bottom: 1px solid #c40f14;
+    }
+
+    .post-area.vehicels {
+        margin: 20px 0 20px 10px;
+    }
+
+        .post-area.vehicels .post h2 {
+            font-size: 28px;
+        }
+
+    .brands-area .brand {
+        width: 18%;
+        margin: 0 0 0 2%;
+    }
+
+        .brands-area .brand:first-child {
+            margin: 0 0 0 1%;
+        }
+
+    .servicing-area .car-aervice .post h3 {
+        font-size: 29px;
+        line-height: 32px;
+        margin: 0 0 15px;
+    }
+
+    .servicing-area .car-aervice .post p {
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .servicing-area .car-aervice form input[type="text"] {
+        height: 40px;
+        font-size: 27px;
+        line-height: 30px;
+    }
+
+    .servicing-area {
+        margin: 20px 10px 30px;
+    }
+
+    .post-area.vehicels.new {
+        margin: 20px 0 34px 10px;
+    }
+
+    .servicing-area .post-text {
+        margin: 40px 0 0;
+    }
+
+    .find-vehicle .row.btn-area button {
+        font-size: 12px;
+    }
+
+    .post-area.vehicels .detail {
+        margin: 0 0 25px;
+        min-height: 240px;
+    }
+
+    .post-area .post.sell-vehicel-area .post-image {
+        margin: 0 0 25px auto;
+        padding: 0;
+        min-height: 240px;
+    }
+
+    .post-area .post .see-range {
+        max-width: 237px;
+    }
+
+    .internal-links ul li {
+        width: 22%;
+        margin: 0 1.5%;
+    }
+
+        .internal-links ul li h3 {
+            font-size: 22px;
+            line-height: 24px;
+        }
+
+        .internal-links ul li .more {
+            width: 98%;
+            left: 2px;
+            box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            -webkit-box-sizing: border-box;
+            -ms-box-sizing: border-box;
+            -o-box-sizing: border-box;
+        }
+
+    .brand-slider .bx-wrapper .bx-pager.bx-default-pager a {
+        width: 20px;
+        height: 20px;
+    }
+
+    .car-detail .car-detail-content .align-left {
+        width: 78%;
+    }
+
+    .car-detail .car-detail-content .align-right {
+        width: 20%;
+        margin: 0;
+    }
+    .car-detail-content .car-img img {
+        margin: 0 0 0 auto;
+    }
+
+    .cars-listing.used .car-detail-header .align-left {
+        width: 50%;
+    }
+
+    .car-detail-header .align-right {
+        width: 50%;
+    }
+
+        .car-detail-header h1 .caption {
+            font-size: 14px;
+            line-height: 21px;
+        }
+
+    .car-detail-header .links .link.views {
+        font-size: 9px;
+        height: 49px;
+        line-height: 10px;
+        width: 48px;
+    }
+
+    .car-detail-header .links .link.share {
+        background-size: 100% auto;
+    }
+
+    .car-detail-header .share-holder {
+        width: 200px;
+        height: 57px;
+    }
+
+    .car-detail-header .links .link.views em {
+        font-size: 18px;
+        line-height: 18px;
+    }
+
+    .car-detail-header .price span {
+        font-size: 24px;
+        line-height: 26px;
+    }
+
+    .car-detail .feature {
+        margin: 10px 0 0;
+    }
+
+        .car-detail .feature ul li {
+            margin: 0 1% 0 0;
+        }
+
+    
+
+    .cars-listing.used .car-detail-content .more em {
+        margin: 3px 0 0 1px
+    }
+
+    .cars-listing.used .car-detail-content .car-content .list-items {
+        margin: 0 0 6px;
+    }
+
+        .car-detail .car-detail-content .vehicles-extra-link ul li span {
+            width: 77%;
+        }
+
+        .car-detail .car-detail-content .vehicles-extra-link ul li em {
+            width: 20%;
+        }
+
+            .car-detail .car-detail-content .vehicles-extra-link ul li em img {
+                max-width: 100%;
+            }
+
+    .car-detail-header .price em {
+        font-size: 24px;
+        line-height: 26px;
+    }
+
+    .car-detail-header .price.add span {
+        font-size: 20px;
+        line-height: 22px;
+    }
+
+    .car-detail-header .price.add em {
+        font-size: 20px;
+        line-height: 22px;
+    }
+
+    .refine-search {
+        padding: 15px 0 15px 2%;
+    }
+
+        .refine-search .column-holder .coll.dropdown {
+            width: 40%;
+        }
+
+        .refine-search .jcf-select {
+            margin: 0 1% 16px 0;
+            width: 30%;
+        }
+
+        .refine-search .classic-search .jcf-select {
+            margin: 0 1% 16px 0;
+            width: 15%;
+        }
+
+        .refine-search .column-holder .coll.colour-area {
+            width: 15%;
+        }
+
+        .refine-search .column-holder .coll {
+            width: 20%;
+        }
+
+            .refine-search .column-holder .coll.requirement {
+                width: 20%;
+            }
+
+        .refine-search .colour {
+            width: 12px;
+            height: 12px;
+            margin: 0 6px 6px 0;
+        }
+
+        .refine-search .btn-area .btn-refine-search {
+            width: 40%;
+            margin: 0 2% 0 0;
+        }
+
+        .refine-search .column-holder .coll .checkbox-area .jcf-checkbox span {
+            width: 9px;
+            height: 5px;
+        }
+
+    .latest-vehicles {
+        padding: 20px 10px 0;
+    }
+
+    .why-section {
+        background-size: 40% auto;
+        padding: 20px 10px 11px;
+    }
+
+        .why-section::after {
+            bottom: -2px;
+        }
+
+        .why-section h2 {
+            font-size: 35px;
+            line-height: 38px;
+        }
+
+        .why-section .alignright h3 {
+            font-size: 22px;
+            line-height: 24px;
+            margin: 8px 0 10px;
+        }
+    /*car-detail-used*/
+    .car-detail-header .align-left {
+        width: 50%;
+    }
+
+        .detail-tabs .tab-content .gallery-frame #bx-pager a {
+            max-width: 115px;
+        }
+
+        .detail-tabs .tab-content .gallery-frame .bx-wrapper .bx-controls .bx-prev {
+            left: 5px;
+        }
+
+        .detail-tabs .tab-content .gallery-frame .bx-wrapper .bx-controls .bx-next {
+            right: 5px;
+        }
+
+        .detail-tabs.car-detail-used .tabs-opener li {
+            padding: 0 5px;
+        }
+    .new-car-config .tab-content .enquiry-area .enquiry-form {
+        margin: 28px 0 0;
+    }
+
+    .new-car-config .tab-content .enquiry-area .img {
+        width: 30%;
+    }
+
+        .new-car-config .tab-content .enquiry-area .img img {
+            max-width: 100%;
+        }
+    .detail-tabs .tab-content section.technical-data .column-holder {
+        width: 100%;
+    }
+
+    .detail-tabs .tab-content section.feature .column-holder {
+        width: 100%;
+    }
+        .new-car-config .tab-content .enquiry-area .enquiry-form .jcf-select {
+            width: 254px;
+            height: 54px;
+        }
+
+            .new-car-config .tab-content .enquiry-area .enquiry-form .jcf-select .jcf-select-text {
+                /*font-size:15px;
+		line-height: 32px;*/
+            }
+
+        .new-car-config .tab-content .enquiry-area .enquiry-form textarea {
+            width: 520px !important;
+            font-size: 15px;
+            line-height: 18px;
+        }
+
+        .new-car-config .tab-content .enquiry-area .enquiry-form .video label {
+            font-size: 11px;
+            line-height: 13px;
+        }
+
+        .new-car-config .tab-content .enquiry-area .enquiry-form .video .jcf-checkbox {
+            border-radius: 5px;
+            height: 30px;
+            width: 30px;
+        }
+
+            .new-car-config .tab-content .enquiry-area .enquiry-form .video .jcf-checkbox span {
+                height: 7px;
+                margin: -7px 0 0 -11px;
+                width: 20px;
+            }
+
+        .new-car-config .tab-content .enquiry-area .enquiry-form .btn.submit {
+            font-size: 18px;
+            line-height: 22px;
+            width: 115px;
+            height: 37px;
+        }
+
+    .vrm-lookup input[type="text"] {
+        font-size: 33px;
+        line-height: 35px;
+        margin: 0 auto 10px;
+    }
+
+    /*car-detail-new*/
+    .sub-nav {
+        margin: 0;
+        border-radius: 0;
+    }
+
+        .sub-nav .sub-logo {
+            width: 15%;
+            margin: 0 1% 0 0;
+        }
+
+    .banner-text h1 {
+        font-size: 35px;
+        line-height: 38px;
+    }
+
+    #banner.car-detail-new .title.mobile {
+        font-size: 35px;
+        line-height: 38px;
+    }
+
+    .banner-text .price-area span {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+        .banner-text .price-area span em {
+            font-size: 21px;
+            line-height: 23px;
+        }
+
+        .banner-text .price-area span.price {
+            font-size: 22px;
+            line-height: 28px;
+        }
+
+            .banner-text .price-area span.price em {
+                font-size: 25px;
+                line-height: 28px;
+            }
+
+    .detail-tabs.car-detail-new .tabs-opener li {
+        min-width: 142px;
+        font-size: 18px;
+    }
+
+    .new-car-config .tab-content .column-holder {
+        width: 100%;
+    }
+
+        .new-car-config .tab-content .column-holder .coll {
+            margin: 0 2% 25px 0;
+            width: 22%;
+        }
+
+            .new-car-config .tab-content .column-holder .coll.extra ul li {
+                margin: 0 2% 12px 0;
+                width: 30%;
+            }
+
+    .detail-tabs .tab-content h3,
+    .detail-tabs .tab-content h2 {
+        font-size: 23px;
+        line-height: 25px;
+    }
+
+    .detail-tabs .tab-content h4 {
+        font-size: 19px;
+        margin: 0 0 10px;
+    }
+
+    .detail-tabs .tab-content .box .download,
+    .detail-tabs .tab-content .brochure-form .submit-btn {
+        margin: 0 auto;
+    }
+
+    .detail-tabs .tab-content .box {
+        margin: 10px 0 0;
+    }
+
+    .new-car-config .tab-content h3,
+    .car-finance h3 {
+        font-size: 23px;
+        line-height: 25px;
+    }
+
+    .new-car-config .tab-content h4 {
+        font-size: 13px;
+        line-height: 15px;
+    }
+
+    .new-car-config .tab-content .configure {
+        margin: 0 0 20px;
+    }
+
+        .new-car-config .tab-content .configure .result {
+            margin: 0 auto 10px;
+        }
+
+            .new-car-config .tab-content .configure .result .price em {
+                font-size: 21px;
+                line-height: 23px;
+            }
+
+            .new-car-config .tab-content .configure .result .price i {
+                font-size: 26px;
+                line-height: 28px;
+            }
+
+            .new-car-config .tab-content .configure .result .price.monthly em {
+                font-size: 18px;
+                line-height: 20px;
+            }
+
+            .new-car-config .tab-content .configure .result .price.monthly i {
+                font-size: 18px;
+                line-height: 29px;
+            }
+
+        .new-car-config .tab-content .configure .btn {
+            width: 180px;
+        }
+
+    .new-car-config .tab-content .detail-form .text {
+        font-size: 15px;
+        line-height: 17px;
+        margin: 0 0 10px;
+    }
+
+    .new-car-config .tab-content .detail-form .row {
+        margin: 0 0 10px;
+    }
+
+    .new-car-config .tab-content .detail-form input[type="text"],
+    .new-car-config .tab-content .detail-form input[type="tel"],
+    .new-car-config .tab-content .detail-form input[type="email"] {
+        /*width: 29%;*/
+        height: 29px;
+        padding: 5px 1%;
+        font-size: 15px;
+        line-height: 17px;
+    }
+
+    #cat-reviews ol li .product-rating {
+        padding: 20px 10px 0;
+    }
+
+    .internal-links {
+        padding: 20px 10px 0;
+    }
+
+    .car-finance .price-detail-area {
+        padding: 0;
+    }
+
+        .car-finance .price-detail-area .col {
+            width: 48%;
+            margin: 0 1%;
+        }
+
+            .car-finance .price-detail-area .col .row input,
+            .car-finance .price-detail-area .col .row select,
+            .car-finance .price-detail-area .col .row span {
+                width: 45%;
+                margin: 0 0.5% 0 0;
+            }
+    /*Branches Area CSS*/
+    .branches-area .branche {
+        width: 19%;
+        /*min-height:541px;*/
+        margin: 0 0 0 1%;
+    }
+    /*Branches Area CSS End*/
+    .branche h3 {
+        font-size: 13px;
+    }
+    /*Car Listing*/
+    .filters {
+        margin: 0 0 20px;
+    }
+
+        .filters .model-range {
+            width: 73%;
+        }
+
+    .cars-listing .frame {
+        width: 100%;
+    }
+
+    .cars-listing .post {
+        width: 28%;
+        min-height: 255px;
+        margin: 0 2% 10px 0;
+    }
+
+        .cars-listing .post .title {
+            overflow: hidden;
+            font-size: 19px;
+            line-height: 22px;
+        }
+
+            .cars-listing .post .title em {
+                font-size: 14px;
+                line-height: 14px;
+            }
+
+        .cars-listing .post .price {
+            margin: 0 0 10px;
+            font-size: 18px;
+            line-height: 20px;
+            width: 100%;
+            display: block;
+        }
+
+        .cars-listing .post .more {
+            width: 100%;
+            font-size: 15px;
+            line-height: 18px;
+        }
+
+            .cars-listing .post .more em {
+                margin: 4px 0 0;
+            }
+    /*Car Listing End*/
+    /*latest-vehicles slider*/
+    .latest-vehicles h3 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .latest-vehicles .caption {
+        font-size: 15px;
+        line-height: 16px;
+        width: 100%;
+    }
+
+    .latest-vehicles .price {
+        font-size: 23px;
+        line-height: 25px;
+        width: 100%;
+        padding: 5px 0 10px;
+    }
+
+    .latest-vehicles .more {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    /*branches-area section */
+    .branches-area {
+        margin: 0;
+        padding: 20px 10px 0;
+    }
+
+        .branches-area h2 {
+            margin: 0 0 10px;
+            font-size: 23px;
+            line-height: 32px;
+        }
+    /*Banner area*/
+    #banner:after {
+        bottom: 29px;
+    }
+
+    #banner .banner-holder {
+        height: auto;
+        /*padding: 30px 0;*/
+        padding: 0 0 30px;
+    }
+
+    .banner-holder .banner-img {
+        vertical-align: middle;
+    }
+    /*Contact Us Form*/
+    .contact-us .form .align-left {
+        width: 49%;
+    }
+
+    .contact-us .form .align-right {
+        width: 49%;
+    }
+
+    .contact-us .form .row input[type="text"],
+    .contact-us .form .row input[type="tel"],
+    .contact-us .form .row input[type="email"] {
+        padding: 10px 2%;
+        width: 100%;
+        height: 47px;
+    }
+
+    .contact-us .form .row .jcf-select {
+        width: 100%;
+        height: 47px;
+    }
+
+    .contact-us .form .row .jcf-textarea {
+        width: 100%;
+    }
+
+    .contact-us .form .row textarea {
+        width: 100% !important;
+        height: 235px !important;
+    }
+    /*Contact Us Form End*/
+    /*recruitment area*/
+    .recruitment {
+        padding: 0 10px 13px;
+    }
+
+    .recruitment-area .recruitment-list > li .align-left {
+        width: 30%;
+    }
+
+    .recruitment-area .recruitment-list > li .align-right {
+        width: 68%;
+    }
+
+    .recruitment-area .recruitment-list > li .align-left h3 {
+        font-size: 19px;
+    }
+
+    .recruitment-area .recruitment-list > li .align-right p {
+        margin: 0 0 10px;
+    }
+
+    .recruitment-area .recruitment-list > li ul {
+        margin: 0 0 10px;
+    }
+
+    .branch-vacancies ul {
+        width: 100%;
+        margin: 0;
+    }
+
+        .branch-vacancies ul li {
+            width: 19%;
+            margin: 0 1% 0 0;
+        }
+
+            .branch-vacancies ul li h3 {
+                font-size: 13px;
+            }
+
+            .branch-vacancies ul li .img-area {
+                table-layout: fixed;
+            }
+
+                .branch-vacancies ul li .img-area .img-holder img {
+                    margin: 0;
+                }
+
+            .branch-vacancies ul li .btn {
+                margin: 0;
+                word-spacing: 2px;
+            }
+    /*testimonials-area*/
+    .testimonials {
+        padding: 0 9px 13px;
+    }
+
+        .testimonials .testimonials-area {
+            padding: 20px 0 0;
+        }
+
+    .testimonials-area .testimonial-list > li {
+        padding: 0 0 20px;
+        margin: 0 0 20px;
+    }
+
+        .testimonials-area .testimonial-list > li .align-left {
+            width: 25%;
+        }
+
+        .testimonials-area .testimonial-list > li .align-right {
+            width: 73%;
+        }
+    /*testimonials-area End*/
+    /*alloy wheel refurb*/
+    .content-frame .post-area .post .post-text {
+        width: 60%;
+        padding: 5px 5px 0 0;
+    }
+
+    .content-frame .post-area .post .post-image {
+        width: 40%;
+    }
+
+    .refurbishment-pricing ul {
+        width: 100%;
+        text-align: center;
+    }
+
+        .refurbishment-pricing ul li {
+            float: none;
+            display: inline-block;
+            vertical-align: top;
+            width: 14%;
+            margin: 0 1% 10px;
+        }
+
+            .refurbishment-pricing ul li .img-area {
+                table-layout: fixed;
+            }
+
+    .content-frame .post-area .post .post-text .title {
+        font-size: 25px;
+        line-height: 28px;
+    }
+    /*alloy wheel refurb end*/
+    /*enquiry section*/
+    .enquiry-section .align-left {
+        width: 49%;
+    }
+
+    .enquiry-section .align-right {
+        width: 49%;
+    }
+
+    .enquiry-section input[type="text"],
+    .enquiry-section input[type="tel"] {
+        width: 100%;
+        height: 46px;
+    }
+
+    .enquiry-section .jcf-select {
+        width: 100%;
+    }
+
+    .enquiry-section .jcf-select {
+        height: 46px;
+    }
+
+    .enquiry-section .jcf-textarea textarea {
+        width: 100% !important;
+        height: 235px !important;
+    }
+    /*enquiry section end*/
+    /*servicing Form*/
+    .service-area legend {
+        font-size: 25px;
+        line-height: 28px;
+    }
+
+    .service-area .choose-service-area ul {
+        padding: 10px 0 0;
+    }
+
+        .service-area .choose-service-area ul li {
+            width: 20%;
+            margin: 0 1%;
+        }
+
+            .service-area .choose-service-area ul li .img-area {
+                table-layout: fixed;
+            }
+
+                .service-area .choose-service-area ul li .img-area .img-holder {
+                    width: 100%;
+                }
+
+    .service-area .detail-form .coll-holder {
+        width: 100%;
+    }
+
+    .service-area .detail-form .coll {
+        margin: 0 0 0 1% !important;
+        width: 49%;
+    }
+
+        .service-area .detail-form .coll .row label {
+            margin: 0 1% 0 0;
+            width: 48%;
+        }
+
+        .service-area .detail-form .coll .row input[type="text"],
+        .service-area .detail-form .coll .row input[type="tel"],
+        .service-area .detail-form .coll .row input[type="email"] {
+            width: 50%;
+            height: 28px;
+        }
+
+        .service-area .detail-form .coll .row .jcf-select {
+            width: 50%;
+            margin: 0;
+        }
+    /*servicing Form End*/
+    /* Brand Parts Area*/
+    .brand-parts h2 {
+        margin: 0 0 20px;
+    }
+
+    .brand-parts ul {
+        width: 100%;
+    }
+
+        .brand-parts ul li {
+            width: 19%;
+            margin: 0 1% 0 0;
+        }
+
+            .brand-parts ul li .img-area {
+                table-layout: fixed;
+                margin: 0 0 10px;
+            }
+
+            .brand-parts ul li span {
+                font-size: 25px;
+                line-height: 25px;
+            }
+    /* Brand Parts Area End*/
+    /*car finance*/
+    .car-finance .result .btn {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .car-finance .finance-application .coll .row .jcf-select {
+        width: 158px;
+    }
+
+    .car-finance .finance-application .coll .row .jcf-file {
+        width: 158px;
+    }
+
+    .car-finance .finance-application .coll {
+        width: 47%;
+        margin: 0 1% 14px;
+    }
+
+    .car-finance .finance-application.sell-my-car-form .extra-vehicle-details .coll {
+        margin: 0 1% 14px;
+    }
+    /*car finance End*/
+    /*Car Search New*/
+    .car-search-area .choose-service-area {
+        margin: 0 0 20px;
+        padding: 0 0 4px;
+    }
+
+        .car-search-area .choose-service-area::after {
+            width: 100%;
+            background-size: 100% auto;
+        }
+
+    .choose-service-area .img-left {
+        width: 20%;
+    }
+
+    .choose-service-area .img-right {
+        width: 22%;
+    }
+
+    .choose-service-area .search-area {
+        width: 60%;
+    }
+
+        .choose-service-area .search-area h2 {
+            margin: 0 0 20px;
+        }
+
+        .choose-service-area .search-area blockquote {
+            margin: 0 0 30px;
+        }
+
+            .choose-service-area .search-area blockquote q {
+                width: 49%;
+                margin: 0 0 0 1%;
+            }
+
+    .car-search-area .car-search-selection legend {
+        margin: 0 0 20px;
+    }
+
+    .car-search-area .car-search-selection input[type="text"],
+    .car-search-area .car-search-selection input[type="tel"] {
+        height: 49px;
+    }
+
+    .car-search-area .car-search-selection .jcf-select {
+        width: 232px;
+        height: 45px;
+    }
+
+    .car-search-area .tab.classic-search .car-search-selection .colour-area {
+        width: 509px;
+        margin: 2px 2px 20px 0;
+    }
+
+        .car-search-area .tab.classic-search .car-search-selection .colour-area .colour {
+            margin: 0 6px;
+        }
+
+    .car-search-area .car-search-selection .drving-speed img,
+    .car-search-area .car-search-selection .inusrance-costs img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .car-search-area .car-search-selection .budget-rang-area,
+    .car-search-area .car-search-selection .running-costs-area,
+    .car-search-area .car-search-selection .drving-speed-area,
+    .car-search-area .car-search-selection .inusrance-costs-area {
+        padding: 0 30px;
+    }
+
+    .budget-rang-area .budget-rang .ui-slider-handle,
+    .running-costs-area .running-costs .ui-slider-handle,
+    .drving-speed-area .drving-speed .ui-slider-handle,
+    .inusrance-costs-area .inusrance-costs .ui-slider-handle {
+        margin-top: -2px;
+    }
+
+    .car-search-selection .running-costs-area .label:nth-child(2) {
+        left: 19%;
+    }
+
+    .car-search-selection .running-costs-area .label:nth-child(3) {
+        left: 47.8%;
+    }
+
+    .car-search-selection .running-costs-area .label:nth-child(4) {
+        left: 70%;
+    }
+
+    .car-search-selection .drving-speed-area .label:nth-child(2) {
+        left: 19.1%;
+    }
+
+    .car-search-selection .drving-speed-area .label:nth-child(3) {
+        left: 48%;
+    }
+
+    .car-search-selection .drving-speed-area .label:nth-child(4) {
+        left: 70.2%;
+    }
+
+    .car-search-selection .inusrance-costs-area .label:nth-child(2) {
+        left: 21%;
+    }
+
+    .car-search-selection .inusrance-costs-area .label:nth-child(3) {
+        left: 45.5%;
+    }
+
+    .car-search-selection .inusrance-costs-area .label:nth-child(5) {
+        left: 90%;
+        width: 100px;
+    }
+
+    .car-search-selection .inusrance-costs-area .label:nth-child(2) {
+        left: 20.7%;
+    }
+
+    .car-search-selection .inusrance-costs-area .label:nth-child(3) {
+        left: 45.7%;
+    }
+
+    .car-search-selection .inusrance-costs-area .label:nth-child(4) {
+        left: 70.7%;
+    }
+
+    .car-search-selection .inusrance-costs-area .label:nth-child(5) {
+        left: 93%;
+        width: 80px;
+    }
+    /*Car Search New End*/
+    /*Car Brand Page CSS*/
+    #main #content .home-slides.brand-page {
+        background: none;
+        padding: 30px 0 0;
+    }
+
+    #main .home-slides.brand-page .post-area.vehicels {
+        margin: 0 0 3px;
+        padding: 0 10px;
+    }
+
+    .post-area.vehicels .post {
+        margin: 0 2% 0 0;
+        width: 49%;
+    }
+
+    .home-slides .post-area.vehicels .post {
+        width: 49%;
+    }
+
+    .post-area.vehicels .post.sell-vehicel-area {
+        width: 48%;
+    }
+
+    .find-vehicle {
+        max-width: 370px;
+        box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.3);
+    }
+
+    .sell-vehicel {
+        box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.3)
+    }
+
+        .sell-vehicel .sell-vehicel-form-area {
+            width: 63%;
+            min-height: 329px;
+        }
+
+        .sell-vehicel form input[type="text"] {
+            /*font-size: 27px;
+		line-height: 30px;*/
+        }
+
+    .find-vehicle h2 {
+        font-size: 29px;
+    }
+
+    .price-range .ui-slider-handle {
+        margin-top: -2px;
+    }
+    /*Car Brand Page CSS End*/
+    .brand-slider .bx-wrapper .bx-prev {
+        margin: -40px 0 0 !important;
+    }
+
+    .brand-slider .bx-wrapper .bx-next {
+        margin: -38px 0 0 !important;
+    }
+
+    .brand-slider .bxslider li {
+        width: 10000px;
+        /*max-width:769px !important;*/
+    }
+    /*car-bodywork*/
+    .car-bodywork .bodywork-area {
+        background: none;
+    }
+
+        .car-bodywork .bodywork-area .car-img {
+            display: none;
+        }
+
+        .car-bodywork .bodywork-area .node {
+            position: static;
+            display: inline-block;
+            vertical-align: top;
+            margin: 0 1% 30px;
+            width: 22%;
+            height: auto;
+            min-height: 100px;
+        }
+
+            .car-bodywork .bodywork-area .node .title {
+                font-size: 13px;
+                line-height: 16px;
+                margin: 0 0 10px;
+            }
+
+            .car-bodywork .bodywork-area .node .row {
+                margin: 0 0 5px;
+            }
+    /*car-bodywork End*/
+    /*car-bodywork tyres*/
+    .car-bodywork.tyres .bodywork-area {
+        background: none;
+        padding: 0;
+    }
+
+    .car-finance .finance-application .car-bodywork.tyres legend {
+        margin: 0 auto 46px;
+    }
+    /*car-bodywork tyres End*/
+    /*Car detail Used*/
+    .car-detail.used {
+        padding: 0 15px;
+    }
+
+        .car-detail.used .car-detail-header .align-left {
+            width: 59%;
+        }
+
+        .car-detail.used .car-detail-header .align-right {
+            width: 40%;
+        }
+
+        .car-detail.used .car-detail-header .price span {
+            font-size: 21px;
+            line-height: 24px;
+        }
+
+        .car-detail.used .car-detail-header .price em {
+            font-size: 21px;
+            line-height: 24px;
+        }
+
+            .car-detail.used .car-detail-header h1 .caption {
+                font-size: 17px;
+                line-height: 19px;
+            }
+    /*Car detail Used End*/
+    /*Branch Detail Page*/
+    .address-area {
+        padding: 20px 10px;
+    }
+
+        .address-area h1 {
+            margin: 0 0 15px;
+            padding: 0 0 5px;
+            font-size: 25px;
+            line-height: 28px;
+        }
+
+        .address-area .address {
+            font-size: 14px;
+            line-height: 16px;
+        }
+
+            .address-area .address address {
+                margin: 0 0 10px;
+                line-height: 18px;
+            }
+
+            .address-area .address .title {
+                margin: 0 0 4px;
+            }
+
+            .address-area .address dl {
+                margin: 0 0 10px;
+            }
+
+    .direction .alignright .row input[type="text"] {
+        height: 42px;
+    }
+
+    .direction .alignright .row button {
+        width: 36%;
+        font-size: 14px;
+    }
+
+    .direction .alignleft label {
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .about-area .about-text {
+        line-height: 22px;
+    }
+
+        .about-area .about-text h2 {
+            margin: 0 0 15px;
+        }
+
+        .about-area .about-text p {
+            margin: 0 0 10px;
+        }
+
+    .brands-detail {
+        margin: 0 auto 20px;
+        padding: 0 10px 15px;
+    }
+
+        .brands-detail h2 {
+            margin: 0 0 15px;
+        }
+
+        .brands-detail .post {
+            margin: 20px 0 0;
+        }
+
+            .brands-detail .post .post-text {
+                line-height: 22px;
+            }
+
+        .brands-detail .post-text h3 {
+            font-size: 14px;
+            line-height: 16px;
+        }
+
+    .vacancies .vacancies-img {
+        width: 57%;
+    }
+
+    .vacancies .vacancies-text {
+        line-height: 22px;
+    }
+
+        .vacancies .vacancies-text h2 {
+            margin: 0 0 15px;
+        }
+
+        .vacancies .vacancies-text p {
+            margin: 0 0 10px;
+        }
+    /*Branch Detail Page End*/
+    #footer {
+        padding: 20px 0;
+    }
+
+    .home-slides.brand-page {
+        background-position: 46% 0;
+    }
+
+    .find-vehicle .find-vehicle-form select,
+    .find-vehicle .find-vehicle-form .jcf-select {
+        height: 38px;
+    }
+
+    .car-detail-header .price {
+        width: 100%;
+    }
+
+    .print-info {
+        display: none;
+    }
+}
+
+@media all and (max-width: 800px) {
+    .post-area.map-screen .post {
+        width: 31%;
+    }
+
+    .servicing-area .car-aervice .post {
+        width: 30%;
+    }
+
+        .servicing-area .car-aervice .post h3 {
+            font-size: 27px;
+            line-height: 30px;
+        }
+
+        .servicing-area .car-aervice .post p {
+            margin: 0 0 17px;
+        }
+
+    .servicing-area .car-aervice form input[type="text"] {
+        height: 40px;
+    }
+
+    .brands-area .brand {
+        margin: 0 0 0 2.2%;
+        width: 17%;
+    }
+
+        .brands-area .brand:first-child {
+            margin: 0 0 0 2%;
+        }
+
+        .brands-area .brand .caption {
+            font-size: 14px;
+            line-height: 18px;
+        }
+
+    .find-vehicle .row.btn-area button.show-cars::after,
+    .find-vehicle .row.btn-area button.advance-search::after,
+    .sell-vehicel form .submit-btn i {
+        display: none;
+    }
+
+    .find-vehicle .row.btn-area button {
+        padding: 5px 2px;
+        font-size: 12px;
+    }
+
+        .find-vehicle .row.btn-area button.show-cars {
+            padding: 5px 2px;
+            width: 100%;
+        }
+    /*car-detail-used*/
+    .detail-tabs .tabs-opener li {
+        min-width: 170px;
+    }
+
+    .detail-tabs .tab-content .gallery-frame #bx-pager a {
+        max-width: 109px;
+    }
+
+    .banner-text h1 {
+        font-size: 30px;
+        line-height: 32px;
+    }
+
+    .detail-tabs.car-detail-new .tabs-opener li {
+        min-width: 134px;
+    }
+    /*sub-nav CSS*/
+    .sub-logo .kap-logo {
+        margin: 0 2px 0 0;
+    }
+    /*sub-nav CSS End*/
+    /*Car Detail New*/
+    .new-car-config .tab-content .enquiry-area .img {
+        display: none;
+    }
+
+    .new-car-config .tab-content .enquiry-area .enquiry-form {
+        width: 100%;
+    }
+
+        .new-car-config .tab-content .enquiry-area .enquiry-form .input-holder {
+            width: 48%;
+            margin: 0 1% 10px 0;
+        }
+
+            .new-car-config .tab-content .enquiry-area .enquiry-form .input-holder.textarea-holder {
+                width: 100%;
+            }
+
+        .new-car-config .tab-content .enquiry-area .enquiry-form input[type="text"],
+        .new-car-config .tab-content .enquiry-area .enquiry-form input[type="tel"],
+        .new-car-config .tab-content .enquiry-area .enquiry-form input[type="email"] {
+            width: 100%;
+            height: 44px;
+        }
+
+        .new-car-config .tab-content .enquiry-area .enquiry-form .jcf-select {
+            width: 100%;
+            height: 44px;
+        }
+
+            .new-car-config .tab-content .enquiry-area .enquiry-form .jcf-select .jcf-select-text {
+                line-height: 42px;
+            }
+
+        .new-car-config .tab-content .enquiry-area .enquiry-form .jcf-textarea {
+            width: 100%;
+        }
+
+        .new-car-config .tab-content .enquiry-area .enquiry-form .jcf-scrollable-wrapper {
+            width: 100% !important;
+        }
+
+        .new-car-config .tab-content .enquiry-area .enquiry-form textarea {
+            width: 100% !important;
+            height: 160px !important;
+        }
+
+    .car-finance .finance-application .row .jcf-textarea {
+        width: 100% !important;
+    }
+
+    .car-finance .finance-application .row .jcf-scrollable-wrapper {
+        width: 100% !important;
+    }
+
+    .car-finance .finance-application .row textarea {
+        width: 100% !important;
+    }
+    /*Car Detail New End*/
+    /*Home Page*/
+    .brands-area {
+        text-align: center;
+    }
+
+        .brands-area .brand {
+            float: none;
+            display: inline-block;
+            vertical-align: top;
+            width: 25%;
+            margin: 0 1% 10px;
+        }
+
+            .brands-area .brand:first-child {
+                margin: 0 1% 10px;
+            }
+    /*Home Page End*/
+    .newcar-wrapper {
+        width: 33.33%;
+    }
+
+    .kap-branches .branch .kap-b-address {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .kap-branches .branch .kap-b-map {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+        .kap-branches .branch .kap-b-map iframe {
+            max-width: 100%;
+        }
+
+    .kap-branches .branch .kap-b-timings {
+        width: 100%;
+    }
+
+        .kap-branches .branch .kap-b-timings h4 {
+            text-align: left;
+        }
+
+    .kap-customers h2 {
+        font-size: 25px;
+    }
+
+    .kap-customers ul {
+        width: 100%;
+    }
+
+    .service-center .kap-services li a span {
+        margin: 10px;
+    }
+
+    .footer-nav .coll-area .coll {
+        position: relative;
+        border-bottom: 1px solid #ae0007;
+        width: 100%;
+    }
+    .cars-listing .car-detail-wrapper.portrait{
+        width:50%;
+    }
+    .product-details .col-30{
+        width:100%;
+    }
+    .product-details .col-40{
+        width:100%;
+    }
+    .payment-detail{
+        position:relative;
+        float:left;
+    }
+    .product-details-inner{
+        min-height:auto;
+        margin-top:10px;
+    }
+    .car-img{
+        padding:0;
+        text-align:center;
+    }
+    .used-price-mobile{
+        float:left;
+        width:100%;
+    }
+    .product-details .monthly-installment{
+        display:none;
+    }
+    .product-details .used-price-mobile{
+        display:block;
+    }
+    .product-details .used-price-mobile .monthly-installment{
+        display:block;
+    }
+    .promotion-detail-view{
+        width:100%;
+    }
+    
+}
+
+@media all and (max-width: 767px) {
+    .kap-container {
+        max-width: 95%;
+    }
+    .car-detail .car-detail-content .vehicles-extra-link ul li a{
+        font-size:10px;
+    }
+    .monthly-installment ul li span{
+        font-size:14px;
+    }
+    #banner:after {
+        background-size: contain;
+    }
+
+    .kap-container h2 {
+        font-size: 20px;
+    }
+
+    .kap-menu-area {
+        background: none;
+    }
+
+    .kap-branches .branch-parent {
+        width: 100%;
+    }
+
+    .nav-holder .kap-branches .dropdown .drop-holder .branch-parent li .col {
+        width: 100%;
+    }
+
+    .nav-holder li.kap-branches .dropdown .drop-holder .kap-menu-area > .branch-header {
+        width: 100%;
+    }
+
+    .branch-content .menu-location {
+        width: 100%;
+        padding: 0;
+    }
+
+    .bsPushNav .kap-container {
+        max-width: 100%;
+    }
+
+    .pn-slide-left {
+        overflow: hidden;
+    }
+
+    .bsPushNav > h3 {
+        color: #fff;
+        font: 400 20px/25px;
+        margin: 0 0 30px;
+        padding: 0 15px;
+        text-transform: capitalize;
+    }
+
+    .bsPushNav-backdrop {
+        width: 100%;
+        background-color: rgba(0, 0, 0, 0.2);
+        left: 0;
+        z-index: 1;
+    }
+
+    .bsPushNav,
+    .bsPushNav-backdrop {
+        height: 100%;
+        position: fixed;
+        top: 0;
+        z-index: 99;
+        cursor: pointer;
+    }
+
+    .bsPushNav {
+        width: 250px;
+        background: #c40f13;
+        background: -moz-linear-gradient(left, #c40f13 0%, #b60e11 29%, #920b0e 79%, #890a0d 100%);
+        background: -webkit-linear-gradient(left, #c40f13 0%,#b60e11 29%,#920b0e 79%,#890a0d 100%);
+        background: linear-gradient(to right, #c40f13 0%,#b60e11 29%,#920b0e 79%,#890a0d 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c40f13', endColorstr='#890a0d',GradientType=1 );
+        z-index: 999;
+        -webkit-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out;
+        overflow: auto;
+        padding: 25px 0;
+    }
+
+        .bsPushNav.left {
+            left: 0;
+            -webkit-transform: translateX(-300px);
+            transform: translateX(-300px);
+        }
+
+        .bsPushNav.right {
+            right: 0;
+            -webkit-transform: translateX(300px);
+            transform: translateX(300px);
+        }
+
+        .bsPushNav .custom-nav {
+            margin: 0;
+        }
+
+    .pn-slide-left .bsPushNav.left.active,
+    .pn-slide-left .bsPushNav.right.active,
+    .pn-slide-right .bsPushNav.left.active,
+    .pn-slide-right .bsPushNav.right.active {
+        -ms-box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.2);
+        -o-box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.2);
+        box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.2);
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+    }
+
+    .pn-push-left {
+        -webkit-transform: translateX(300px);
+        transform: translateX(300px);
+    }
+
+    .pn-push-right {
+        -webkit-transform: translateX(-300px);
+        transform: translateX(-300px);
+    }
+
+    .navbar-toggle {
+        background: #808080 none repeat scroll 0 0;
+        border: medium none;
+        border-radius: 7px;
+        box-sizing: border-box;
+        display: block;
+        height: 36px;
+        line-height: 1px;
+        padding: 0 5px;
+        position: absolute;
+        right: 10px;
+        text-align: center;
+        vertical-align: top;
+        width: 36px;
+    }
+
+        .navbar-toggle:hover,
+        .navbar-toggle:focus {
+            background: #808080;
+            outline: none;
+            -webkit-outline: none;
+            -o-outline: none;
+            -moz-outline: none;
+        }
+
+            .navbar-toggle:hover .icon-bar,
+            .navbar-toggle:focus .icon-bar {
+                background: #fff;
+                outline: none;
+                -webkit-outline: none;
+                -o-outline: none;
+                -moz-outline: none;
+            }
+
+        .navbar-toggle .icon-bar {
+            background: #ffffff none repeat scroll 0 0;
+            border-radius: 10px;
+            display: inline-block;
+            height: 2px;
+            margin-bottom: 3px;
+            position: relative;
+            vertical-align: top;
+            width: 70%;
+        }
+
+    .main-nav {
+        border-top: 5px solid #777777;
+        border-bottom: 10px solid #777777;
+    }
+
+    .slogan {
+        display: none;
+    }
+
+    .bsPushNav #navholder > ul > li {
+        width: 100%;
+        text-align: left;
+    }
+
+        .bsPushNav #navholder > ul > li:first-child,
+        .bsPushNav #navholder > ul > li {
+            border: none;
+            text-align: left;
+        }
+
+            .bsPushNav #navholder > ul > li:first-child a,
+            .bsPushNav #navholder > ul > li a {
+                border: none;
+                text-align: left;
+            }
+
+    .bsPushNav .topbar-container ul li {
+        width: 100%;
+        text-align: left;
+    }
+
+        .bsPushNav .topbar-container ul li:first-child,
+        .bsPushNav .topbar-container ul li {
+            border: none;
+            text-align: left;
+        }
+
+            .bsPushNav .topbar-container ul li:first-child a,
+            .bsPushNav .topbar-container ul li a {
+                border: none;
+                padding: 10px;
+            }
+
+    .bsPushNav #navholder .dropdown {
+        position: relative;
+        top: 0;
+    }
+
+        .bsPushNav #navholder .dropdown .drop-holder .alignleft:first-child {
+            display: none;
+        }
+
+        .bsPushNav #navholder .dropdown .drop-holder .alignleft {
+            width: 100%;
+        }
+
+    .bsPushNav .kap-menu-area .coll {
+        width: 100%;
+    }
+
+    .bsPushNav #navholder .dropdown .drop-holder {
+        box-shadow: none;
+    }
+
+    .bsPushNav .main-nav {
+        position: relative;
+    }
+
+    .header-phone {
+        position: absolute;
+        right: 55px;
+        display: block;
+    }
+
+    .kap-slider-nav .heading {
+        width: 100%;
+        border: none;
+        border-bottom: 1px solid #404040;
+    }
+
+    .kap-slider-tabs {
+        width: 100%;
+        border: none;
+        border-top: 1px solid #c0c0c0;
+    }
+
+        .kap-slider-tabs li {
+            width: 100%;
+            border: none;
+        }
+
+        .kap-slider-tabs > li:first-child {
+            border-bottom: 1px solid #c0c0c0;
+        }
+
+            .kap-slider-tabs > li:first-child a {
+                border-bottom: 1px solid #404040;
+            }
+
+    .slider-caption p.caption-content {
+        display: none;
+    }
+
+    .slider-caption p.link {
+        font-size: 13px;
+    }
+
+    .slider-caption .col-right .image-right {
+        background-position: 0 50% !important;
+        background-size: 200% auto !important;
+        right: 0;
+    }
+
+    .slider-caption .col-left .image-left {
+        background-position: 60% 50% !important;
+        background-size: 200% auto !important;
+    }
+
+    .slider-caption .caption-logo {
+        margin: 10px 0;
+    }
+
+    .brand-slider {
+        display: none;
+    }
+
+    .sub-nav {
+        display: none;
+    }
+
+        .sub-nav.mobile {
+            display: block;
+        }
+
+        .sub-nav .sub-logo {
+            width: auto;
+        }
+
+    .sub-logo span {
+        display: block;
+    }
+
+    .testimonials-area .testimonial-list li div {
+        width: 100%;
+    }
+    /*Latest Vehical Css*/
+    .latest-vehicles .bx-wrapper ul li { /*width:225px !important;*/
+    }
+
+        .latest-vehicles .bx-wrapper ul li .car {
+            text-align: center;
+        }
+
+    .latest-vehicles .more {
+        margin: 0 auto;
+    }
+    /*Latest Vehical Css End*/
+    #outercontainer.fixed #wrapper {
+        padding: 80px 0 0;
+    }
+
+    #outercontainer.fixed.add #wrapper {
+        padding: 46px 0 0;
+    }
+
+    #outercontainer.fixed.sub #wrapper {
+        padding: 118px 0 0;
+    }
+
+    #outercontainer.fixed.add.sub #wrapper {
+        padding: 85px 0 0;
+    }
+
+    #outercontainer.fixed .sub-nav-area {
+        top: 47px;
+    }
+
+    #outercontainer.fixed.sub .sub-nav-area {
+        top: 80px;
+    }
+
+    #outercontainer.fixed.sub.add .sub-nav-area {
+        top: 47px;
+        padding: 1px 0 0;
+        background: #fff;
+    }
+    /*	.sub-nav-area {
+		position: relative;
+		top: -1px;
+	}*/
+    #outercontainer.fixed #top-bar {
+        left: 0;
+        position: fixed;
+        top: 0;
+        width: 100%;
+        z-index: 99999;
+    }
+
+    #outercontainer.fixed .swiper-container {
+        position: fixed;
+        top: 47px;
+        left: 0;
+    }
+
+    #outercontainer.fixed .sub-nav.mobile .swiper-container {
+        position: static;
+    }
+
+    #intro {
+        display: none;
+    }
+
+    .car-detail .car-detail-content .align-right {
+        display: none;
+    }
+
+    .car-detail .car-detail-content .align-left {
+        width: 100%;
+    }
+
+    .car-detail-content .car-img img {
+        margin: 0 auto 0 0;
+    }
+
+    .refine-search .tab {
+        min-height: 160px;
+    }
+
+    .refine-search .column-holder .coll.dropdown {
+        width: 100%;
+        margin: 0;
+    }
+
+    .refine-search .jcf-select {
+        margin: 0 1% 10px;
+    }
+
+    .refine-search .column-holder .coll.colour-area {
+        width: 20%;
+    }
+
+    .refine-search .column-holder .coll.requirement {
+        width: 35%;
+    }
+
+    .refine-search .column-holder .coll {
+        width: 40%;
+    }
+
+        .refine-search .column-holder .coll .checkbox-area .jcf-checkbox span {
+            width: 10px;
+            height: 5px;
+        }
+
+    .refine-search .colour {
+        margin: 0 2px 2px 0;
+    }
+
+    .refine-search .btn-area .tabs-opener {
+        width: 53%;
+    }
+
+    .refine-search .btn-area {
+        padding: 10px 0 0;
+    }
+
+        .refine-search .btn-area .tab-link {
+            width: 50%;
+            font-size: 15px;
+        }
+
+    .refine-search .classic-search .jcf-select {
+        margin: 0 1% 8px;
+        width: 30%;
+    }
+
+    .refine-search .btn-area .btn-refine-search {
+        width: 44%;
+    }
+
+            .cars-listing.used .car-detail-content .car-content .list-items li.miles {
+                display: block;
+            }
+
+            .cars-listing.used .car-detail-content .car-content .list-items li.model {
+                display: block;
+            }
+
+        .cars-listing.used .car-detail-content .car-content .more {
+            display: none;
+        }
+
+        .cars-listing.used .car-detail-content .car-content .m-header {
+            display: block;
+            margin: 0 0 5px;
+        }
+
+            .cars-listing.used .car-detail-content .car-content .m-header .name {
+                display: block;
+                font-size: 15px;
+                line-height: 18px;
+                font-weight: bold;
+                color: #c40f14;
+            }
+
+            .cars-listing.used .car-detail-content .car-content .m-header .model {
+                display: block;
+                margin: 0 0 5px;
+                font-size: 13px;
+                line-height: 16px;
+                color: #c40f14;
+            }
+
+            .cars-listing.used .car-detail-content .car-content .m-header .price {
+                display: block;
+                font-size: 13px;
+                line-height: 16px;
+                text-align: left;
+                padding: 5px 0 5px 15px;
+            }
+                /*circle style start*/
+                .cars-listing.used .car-detail-content .car-content .m-header .price .circle {
+                    left: -15px;
+                    width: 22px;
+                    height: 22px;
+                    font-size: 10px;
+                    line-height: 23px;
+                }
+
+                .cars-listing.used .car-detail-content .car-content .m-header .price.add .circle {
+                    left: -15px;
+                    width: 20px;
+                    height: 20px;
+                    font-size: 10px;
+                    line-height: 20px;
+                }
+                /*circle style end*/
+                .cars-listing.used .car-detail-content .car-content .m-header .price em {
+                    font-style: normal;
+                    color: #c40f14;
+                }
+
+            .cars-listing.used .car-detail-content .car-content .m-header .monthly-payment {
+                display: block;
+                font-size: 14px;
+                line-height: 16px;
+            }
+
+                .cars-listing.used .car-detail-content .car-content .m-header .monthly-payment em {
+                    font-style: normal;
+                    color: #c40f14;
+                }
+
+    .car-detail-content .car-content .list-items {
+        font-size: 13px;
+        line-height: 16px;
+    }
+
+    .car-detail .feature ul li {
+        margin: 0 1% 0 0;
+        width: 15%;
+    }
+
+        .car-detail .feature ul li span {
+            font-size: 9px;
+            line-height: 9px;
+            word-wrap: break-word;
+        }
+
+    .cars-listing .frame {
+        text-align: center;
+    }
+
+    .cars-listing .post {
+        margin: 0 1% 20px;
+        min-height: 255px;
+        width: 35%;
+        min-height: 235px;
+        float: none;
+        display: inline-block;
+        vertical-align: top;
+    }
+
+        .cars-listing .post .car-img {
+            height: 95px;
+        }
+
+        .cars-listing .post .more {
+            z-index: 1;
+        }
+
+    .filters .sort-by {
+        width: 90px;
+    }
+
+    .sort-by .title {
+        float: none;
+        display: inline-block;
+        vertical-align: middle;
+        margin: 0 5px 0 0;
+    }
+
+    .sort-by .slide {
+        display: inline-block;
+        vertical-align: middle;
+    }
+
+    .sort-by .jcf-select {
+        float: none;
+        display: inline-block;
+        vertical-align: middle;
+        width: 20px;
+        height: 24px;
+        margin: 0;
+    }
+
+        .sort-by .jcf-select .jcf-select-opener {
+            background-position: 0 -8px;
+            top: 8px;
+        }
+
+    .filters {
+        overflow: visible;
+        margin: 0 0 10px;
+        padding: 0 0 5px;
+        border-bottom: 1px solid #c40f14;
+    }
+
+    .eco .filters {
+        border-bottom: 1px solid #8eb836;
+    }
+
+    .prestige .filters {
+        border-bottom: 1px solid #000;
+    }
+
+    .electric .filters {
+        border-bottom: 1px solid #8eb836;
+    }
+
+    .hybrid .filters {
+        border-bottom: 1px solid #8eb836;
+    }
+
+    .filters:after {
+        content: '';
+        display: block;
+        clear: both;
+    }
+
+    .filters .model-range {
+        position: relative;
+        overflow: visible;
+        width: auto;
+    }
+
+    .model-range .title {
+        cursor: pointer;
+    }
+
+    .model-range ul {
+        display: none;
+        float: none;
+        padding: 5px 0;
+        position: absolute;
+        top: 20px;
+        left: 0;
+        z-index: 9;
+        background: #fff;
+        width: 100%;
+        text-align: center;
+        border: 1px solid #c40f14;
+        border-width: 0 1px 1px;
+        border-radius: 0 0 10px 10px;
+    }
+
+        .model-range ul.open {
+            display: block;
+        }
+
+        .model-range ul li {
+            float: none;
+            background: none;
+            margin: 0 0 2px;
+        }
+    /*Banner area*/
+    #banner {
+        display: block;
+        margin-top: 15px;
+    }
+
+        #banner .banner-holder {
+            display: block;
+        }
+
+    .banner-holder .banner-img {
+        display: block;
+        text-align: center;
+    }
+
+    #banner.car-detail-new {
+        display: block;
+    }
+
+    .banner-holder .banner-img img {
+        max-height: 200px;
+        width: auto;
+    }
+    .share {
+        top: 0;
+    }
+
+    .share-holder {
+        width: 200px;
+        height: 57px;
+    }
+    /*Banner area end*/
+    /*Promo text area in About Us*/
+    .promotion-text {
+        padding: 0 10px;
+    }
+    /*Promo text area in About Us end*/
+    .content-frame .tag-line {
+        padding: 0 10px;
+    }
+    /*internal-links*/
+    .internal-links ul {
+        text-align: center;
+    }
+
+        .internal-links ul li {
+            display: inline-block;
+            vertical-align: top;
+            float: none;
+            margin: 0 1.5% 20px;
+            max-width: 225px;
+            width: 46%;
+        }
+
+            .internal-links ul li img {
+                width: 100%;
+            }
+    /*internal-links End*/
+    /*why-section*/
+    .why-section {
+        background: none;
+    }
+
+        .why-section::after {
+            display: none;
+        }
+
+        .why-section .alignleft {
+            width: 100%;
+        }
+
+        .why-section .alignright {
+            width: 50%;
+        }
+
+        .why-section .alignleft p {
+            padding: 0;
+        }
+
+        .why-section h2 {
+            font-size: 28px;
+            line-height: 30px;
+        }
+
+        .why-section .alignright h3 {
+            font-size: 18px;
+            line-height: 20px;
+        }
+    /*why-section End*/
+    /*Contact Us Form*/
+    .contact-us .form .row input[type="text"],
+    .contact-us .form .row input[type="tel"],
+    .contact-us .form .row input[type="email"] {
+        padding: 5px 2%;
+        height: 42px;
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .contact-us .form .row .jcf-select {
+        height: 38px;
+        padding: 5px 0;
+    }
+
+    .contact-us .form .row textarea {
+        height: 180px !important;
+    }
+    /*Contact Us Form End*/
+    /*recruitment area*/
+    .recruitment-area .recruitment-list > li .align-left {
+        float: none;
+        width: 100%;
+    }
+
+    .recruitment-area .recruitment-list > li .align-right {
+        float: none;
+        padding: 10px 0 0 5%;
+        width: 100%;
+    }
+
+    .recruitment-area .recruitment-list > li .align-left h3 {
+        line-height: 22px;
+    }
+
+    .branch-vacancies ul {
+        text-align: center;
+    }
+
+        .branch-vacancies ul li {
+            display: inline-block;
+            float: none;
+            margin: 0 1% 20px;
+            vertical-align: top;
+            width: 35%;
+        }
+
+            .branch-vacancies ul li .img-area .img-holder img {
+                margin: 0 auto;
+            }
+    /*recruitment area end*/
+    /*alloy wheel refurb*/
+    .content-frame .post-area .post .post-text {
+        float: none;
+        width: 100%;
+        padding: 5px 0 0;
+    }
+
+    .content-frame .post-area .post .post-image {
+        float: none;
+        width: 100%;
+    }
+
+    .refurbishment-pricing ul li {
+        width: 23%;
+    }
+
+        .refurbishment-pricing ul li .img-area {
+            height: 120px;
+        }
+
+            .refurbishment-pricing ul li .img-area .img-holder {
+                height: 120px;
+            }
+    /*alloy wheel refurb end*/
+    /*enquiry section end*/
+    .enquiry-section input[type="text"],
+    .enquiry-section input[type="tel"] {
+        height: 35px;
+        padding: 5px 10px;
+        font-size: 17px;
+        line-height: 19px;
+    }
+
+    .enquiry-section .jcf-select {
+        height: 35px;
+        padding: 5px 0;
+    }
+
+    .enquiry-section .jcf-textarea textarea {
+        height: 190px !important;
+    }
+    /*enquiry section end*/
+    /*servicing Form*/
+    .service-area .choose-service-area ul li {
+        width: 31%;
+        margin: 0 1% 20px;
+    }
+
+        .service-area .choose-service-area ul li .price {
+            font-size: 25px;
+            line-height: 28px;
+            width: 100%;
+        }
+
+    .service-area .detail-form .coll .row label {
+        float: none;
+        margin: 0 0 5px;
+        width: 100%;
+    }
+
+    .service-area .detail-form .coll .row input[type="text"],
+    .service-area .detail-form .coll .row input[type="tel"],
+    .service-area .detail-form .coll .row input[type="email"] {
+        float: none;
+        width: 100%;
+        height: 28px;
+    }
+
+    .service-area .detail-form .coll .row .jcf-select {
+        width: 100%;
+        margin: 0;
+    }
+
+    .service-area .btn {
+        padding: 5px;
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .service-area .location .row .coll label {
+        float: none;
+        display: block;
+        margin: 0 0 5px;
+    }
+    /*servicing Form End*/
+    /* Brand Parts Area*/
+    .brand-parts ul {
+        text-align: center;
+    }
+
+        .brand-parts ul li {
+            display: inline-block;
+            float: none;
+            margin: 0 1% 20px;
+            vertical-align: top;
+            width: 32%;
+        }
+
+            .brand-parts ul li span {
+                font-size: 20px;
+                line-height: 22px;
+            }
+    /* Brand Parts Area End*/
+    /*car finance*/
+    .car-finance .finance-application .coll .row {
+        margin: 0 0 5px;
+    }
+
+        .car-finance .finance-application .coll .row.checkbox-area label {
+            float: left;
+            width: 80%;
+        }
+
+        .car-finance .finance-application .coll .row .jcf-select {
+            float: none;
+            width: 100%;
+        }
+
+        .car-finance .finance-application .coll .row .jcf-file {
+            float: none;
+            width: 100%;
+        }
+
+    .car-finance .finance-application .coll {
+        width: 47%;
+        margin: 0 1% 14px;
+    }
+    /*car finance End*/
+    /*Car Search New*/
+    .car-search-area .choose-service-area {
+        padding: 0 0 24px;
+    }
+
+    .choose-service-area .img-left,
+    .choose-service-area .img-right {
+        display: none;
+    }
+
+    .choose-service-area .search-area {
+        width: 100%;
+    }
+
+    .car-search-area .car-search-selection legend {
+        font-size: 25px;
+        line-height: 28px;
+    }
+
+    .car-search-area .car-search-selection input[type="text"],
+    .car-search-area .car-search-selection input[type="tel"] {
+        height: 42px;
+        padding: 8px 9px;
+    }
+
+    .car-search-area .car-search-selection .jcf-select {
+        height: 40px;
+        padding: 8px 0;
+    }
+
+    .car-search-area .car-search-selection .btn {
+        width: 230px;
+        padding: 8px 5px;
+    }
+
+    .car-search-area .tab.classic-search .car-search-selection .row.option-area .jcf-select {
+        width: 30%;
+        margin: 0 1% 10px;
+    }
+
+        .car-search-area .tab.classic-search .car-search-selection .row.option-area .jcf-select .jcf-select-text {
+            font-size: 19px;
+            line-height: 24px;
+        }
+
+    .car-search-area .tab.classic-search .car-search-selection .colour-area {
+        width: 320px;
+        margin: 4px 2px 0 0;
+    }
+
+        .car-search-area .tab.classic-search .car-search-selection .colour-area .colour {
+            width: 29px;
+            height: 29px;
+            margin: 0 1%;
+        }
+
+    .car-search-area .car-search-selection .budget-rang-area,
+    .car-search-area .car-search-selection .running-costs-area,
+    .car-search-area .car-search-selection .drving-speed-area,
+    .car-search-area .car-search-selection .inusrance-costs-area { /*margin: 0 0 20px;*/
+    }
+
+    .car-search-area .car-search-selection .coll-holder {
+        margin: 0 0 20px;
+    }
+
+        .car-search-area .car-search-selection .coll-holder .coll .jcf-checkbox {
+            width: 35px;
+            height: 35px;
+        }
+
+        .car-search-area .car-search-selection .coll-holder .coll label {
+            font-size: 15px;
+            line-height: 18px;
+        }
+
+    .car-search-area .car-search-selection .colour {
+        width: 33px;
+        height: 33px;
+    }
+
+    .budget-rang-area .budget-rang,
+    .running-costs-area .running-costs,
+    .drving-speed-area .drving-speed,
+    .inusrance-costs-area .inusrance-costs {
+        height: 40px;
+    }
+
+        .budget-rang-area .budget-rang .ui-slider-handle,
+        .running-costs-area .running-costs .ui-slider-handle,
+        .drving-speed-area .drving-speed .ui-slider-handle,
+        .inusrance-costs-area .inusrance-costs .ui-slider-handle {
+            width: 47px;
+            height: 47px;
+            margin-top: 0;
+        }
+
+    .car-search-selection .divider-area .divider {
+        top: 0;
+    }
+
+    .car-search-selection .label-area {
+        top: 10px;
+    }
+
+    .car-search-selection .label {
+        font-size: 13px;
+    }
+
+        .car-search-selection .label:nth-child(1) {
+            left: 0;
+        }
+
+        .car-search-selection .label:nth-child(2) {
+            left: 8%;
+        }
+
+        .car-search-selection .label:nth-child(3) {
+            left: 20%;
+        }
+
+        .car-search-selection .label:nth-child(4) {
+            left: 34%;
+        }
+
+        .car-search-selection .label:nth-child(5) {
+            left: 46%;
+        }
+
+        .car-search-selection .label:nth-child(6) {
+            left: 59%;
+        }
+
+        .car-search-selection .label:nth-child(7) {
+            left: 73%;
+        }
+
+        .car-search-selection .label:nth-child(8) {
+            left: 86%;
+        }
+
+        .car-search-selection .label:nth-child(9) {
+            left: 97%;
+        }
+
+    .car-search-selection .running-costs-area .label:nth-child(2) {
+        left: 16%;
+    }
+
+    .car-search-selection .running-costs-area .label:nth-child(3) {
+        left: 46.8%;
+    }
+
+    .car-search-selection .running-costs-area .label:nth-child(4) {
+        left: 68.3%;
+    }
+
+    .car-search-selection .drving-speed-area .label:nth-child(2) {
+        left: 15.5%;
+    }
+
+    .car-search-selection .drving-speed-area .label:nth-child(3) {
+        left: 46.5%;
+    }
+
+    .car-search-selection .drving-speed-area .label:nth-child(4) {
+        left: 68%;
+    }
+
+    .car-search-selection .inusrance-costs-area .label:nth-child(2) {
+        left: 19%;
+    }
+
+    .car-search-selection .inusrance-costs-area .label:nth-child(3) {
+        left: 43.5%;
+    }
+
+    .car-search-selection .inusrance-costs-area .label:nth-child(4) {
+        left: 69%;
+    }
+
+    .car-search-selection .inusrance-costs-area .label:nth-child(5) {
+        left: 91%;
+        width: 58px;
+    }
+    /*Car Search New End*/
+    /*Branches Area CSS*/
+    .branches-area .branches-frame {
+        text-align: center;
+    }
+
+    .branches-area .branche {
+        float: none;
+        display: inline-block;
+        vertical-align: top;
+        width: 30%;
+        /*min-height:541px;*/
+        margin: 0 1% 20px !important;
+        text-align: left;
+    }
+
+    .branche h3 {
+        font-size: 12px;
+    }
+    /*Branches Area CSS End*/
+    /*Car Brand Page CSS*/
+    .post-area.vehicels {
+        margin: 0 0 20px !important;
+        width: 100%;
+    }
+
+        .post-area.vehicels.new {
+            margin: 0 0 20px;
+        }
+
+        .post-area.vehicels .post {
+            float: none;
+            width: 100%;
+            margin: 20px 0;
+        }
+
+    .home-slides .post-area.vehicels .post {
+        width: 100%;
+    }
+
+    .find-vehicle .cash-price {
+        margin: 2px 4% 0 0;
+    }
+
+    .post-area.vehicels .post.sell-vehicel-area {
+        width: 100%;
+        margin: 0;
+    }
+
+    .find-vehicle {
+        max-width: 450px;
+        margin: 0 auto;
+        box-shadow: 0 0 13px 0 rgba(0, 0, 0, 0.3);
+    }
+
+    .sell-vehicel {
+        max-width: 450px;
+        float: none;
+        margin: 0 auto;
+        box-shadow: 0 0 13px 0 rgba(0, 0, 0, 0.3);
+    }
+
+    #main .home-slides.brand-page .servicing-area {
+        max-width: 450px;
+        margin: 20px auto;
+        padding: 0;
+    }
+
+        #main .home-slides.brand-page .servicing-area .car-aervice,
+        .servicing-area .car-aervice {
+            background-size: 100% auto;
+            height: 237px;
+            box-shadow: 0 0 15px -3px rgba(0, 0, 0, 0.5);
+        }
+
+            .servicing-area .car-aervice .post {
+                margin: 10px 0 0 10px;
+                width: 50%;
+            }
+    /*Car Brand Page CSS End*/
+    /*sub-nav CSS*/
+    .sub-logo img {
+        display: block;
+        margin: 0 auto;
+    }
+
+        .sub-logo img.kap-logo {
+            display: none;
+        }
+    /*sub-nav CSS END*/
+    /*Car Detail New*/
+    .detail-tabs.car-detail-new .tabs-opener li {
+        min-width: inherit;
+        width: 19%;
+        font-size: 15px;
+    }
+
+    .detail-tabs .tab-content .gallery-frame #bx-pager a {
+        max-width: 14%;
+        margin: 0 1%;
+    }
+
+    .detail-tabs .tab-content section.brochure {
+        padding: 20px 0 0;
+    }
+
+    .detail-tabs .tab-content .brochure-form .column-holder .coll {
+        width: 47%;
+        margin: 0 1%;
+    }
+
+    .detail-tabs .tab-content .brochure-form label {
+        width: 50%;
+        text-align: left;
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .new-car-config .tab-content .column-holder {
+        margin: 0 0 20px;
+    }
+
+        .new-car-config .tab-content .column-holder .coll {
+            margin: 0 1% 25px;
+            width: 18%;
+        }
+
+    .new-car-config .tab-content section.config-area .column-holder .coll {
+        display: inline-block;
+        float: none;
+        margin: 0 2% 25px;
+        text-align: center;
+        vertical-align: top;
+        width: 29%;
+    }
+
+    .new-car-config .tab-content .column-holder .coll ul {
+        padding: 0;
+    }
+
+    .new-car-config .tab-content .column-holder .coll.extra {
+        display: block;
+        width: 100%
+    }
+
+        .new-car-config .tab-content .column-holder .coll.extra ul li {
+            margin: 0 1% 10px;
+            width: 30%;
+        }
+
+            .new-car-config .tab-content .column-holder .coll.extra ul li label {
+                width: 68%;
+            }
+
+    .new-car-config .tab-content .column-holder .coll ul li .jcf-radio {
+        margin: 3px 5px 0 0;
+    }
+
+    .new-car-config .tab-content .column-holder .coll ul li .colour {
+        width: 14px;
+        height: 14px;
+    }
+
+    .car-finance .price-detail-area .col {
+        float: none;
+        width: 100%;
+        margin: 0 0 20px;
+    }
+    /*Car Detail New End*/
+    /*car-bodywork End*/
+    .car-bodywork .bodywork-area .node {
+        width: 30%;
+        box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.1);
+    }
+    /*car-bodywork*/
+    /*Car detail Used*/
+    .car-detail.used .car-detail-content .m-header {
+        display: block;
+        margin: 0 0 10px;
+        text-align: center;
+    }
+
+        .car-detail.used .car-detail-content .m-header .name {
+            color: #c40f14;
+            display: block;
+            margin: 0 0 3px;
+            font-size: 26px;
+            font-weight: bold;
+            line-height: 28px;
+        }
+
+        .car-detail.used .car-detail-content .m-header .model {
+            color: #c40f14;
+            display: block;
+            font-size: 20px;
+            line-height: 24px;
+            margin: 0 0 5px;
+        }
+
+        .car-detail.used .car-detail-content .m-header .price {
+            display: block;
+            margin: 0 0 3px;
+            font-size: 20px;
+            line-height: 24px;
+            width: 100%;
+            color: #808080;
+        }
+
+            .car-detail.used .car-detail-content .m-header .price em {
+                color: #c40f14;
+                font-style: normal;
+            }
+
+        .car-detail.used .car-detail-content .m-header .monthly-payment {
+            display: block;
+            margin: 0 0 3px;
+            font-size: 16px;
+            line-height: 18px;
+            color: #808080;
+        }
+
+            .car-detail.used .car-detail-content .m-header .monthly-payment em {
+                color: #c40f14;
+                font-style: normal;
+            }
+
+    .car-detail.used .car-detail-content .car-img {
+        float: none;
+        width: 100%;
+        margin: 0 0 10px;
+    }
+
+        .car-detail.used .car-detail-content .car-img img {
+            margin: 0 auto;
+        }
+
+
+    .detail-tabs.car-detail-used .tabs-opener li {
+        min-width: inherit;
+        width: 24%;
+        font-size: 16px;
+        line-height: 18px;
+    }
+    /*Car detail Used End*/
+    /*Branch Detail Page*/
+    .direction .alignleft {
+        width: 39%;
+    }
+
+    .direction .alignright {
+        width: 51%;
+    }
+
+        .direction .alignright .row input[type="text"] {
+            width: 59%;
+            height: 32px;
+            padding: 5px;
+        }
+
+        .direction .alignright .row button {
+            width: 39%;
+            padding: 5px;
+            font-size: 12px;
+            line-height: 19px;
+        }
+
+    .about-area .about-text {
+        width: 50%;
+    }
+
+    .vacancies .vacancies-img img {
+        height: auto;
+    }
+
+    .vacancies .more em {
+        margin: 5px 0 0;
+    }
+    /*Branch Detail Page End*/
+    /*Home Page*/
+    .post-area.map-screen .post {
+        display: block;
+        width: 100%;
+        margin: 0 0 10px;
+    }
+
+    .post-area.vehicels .detail {
+        display: none;
+    }
+
+    .post-area .post.sell-vehicel-area .post-image {
+        display: none;
+    }
+
+    .promo-image {
+        display: none;
+    }
+
+    .post-area.vehicels .title-mobile {
+        display: block;
+        color: #c40f14;
+        font-size: 32px;
+        font-weight: 500;
+        line-height: 34px;
+        margin: 0 0 18px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .find-vehicle h3 {
+        font-size: 28px;
+        line-height: 30px;
+        margin: 0 0 10px;
+    }
+
+    .find-vehicle .find-vehicle-form select {
+        margin: 0 0 5px;
+    }
+
+    .post-area .post {
+        width: 100%;
+    }
+
+    .servicing-area {
+        margin: 0 10px 20px;
+        padding: 0 10px;
+    }
+
+        .servicing-area .post-area .post .post-image {
+            float: none;
+            width: 100%;
+            max-width: inherit;
+            margin: 0 0 10px;
+            text-align: center;
+        }
+
+            .servicing-area .post-area .post .post-image img {
+                margin: 0 auto;
+            }
+
+        .servicing-area .post-text {
+            float: none;
+            width: 100%;
+            max-width: inherit;
+            margin: 0 0 30px;
+            text-align: center;
+        }
+    /*Home page end*/
+    .home-slides.brand-page {
+        background: none;
+        padding: 30px 0 0;
+    }
+
+    .servicing-area.home {
+        margin-top: 20px;
+    }
+
+    .banner-holder .share-area {
+        display: none;
+    }
+
+    .latest-vehicles h3 {
+        text-align: center;
+    }
+
+    .car-gallery-pager {
+        display: none;
+    }
+
+    .newcar-wrapper {
+        width: 50%;
+    }
+
+    .kap-slider-nav .heading {
+        font-size: 24px;
+        line-height: 20px;
+        padding: 30px 10px;
+    }
+
+    .kap-slider-tabs li a {
+        font-size: 24px;
+    }
+
+    .kap_tab_content .heading {
+        font: bold 20px/30px Arial,Verdana,sans-serif;
+        margin-bottom: 0;
+    }
+
+    .kap_tab_content .kap-services li a .list-circle img {
+        width: 50%;
+    }
+
+    .four-col-item {
+        width: 33%;
+    }
+
+    .nav-holder > ul > li > a span {
+        display: none;
+    }
+
+    .footer-nav .coll-area .coll {
+        width: 100%;
+    }
+
+
+
+    .social-area ul.kap-social-icons {
+        float: none;
+        margin-bottom: 10px;
+    }
+
+    .social-area ul.kap-payment-icons {
+        float: none;
+    }
+
+    .new-car-config .tabs-opener li a span em {
+        display: block;
+    }
+
+    .car-finance .result {
+        width: 100%;
+    }
+    .car-detail-content .col-30{
+        width:100%;
+    }
+    .car-detail-content .col-40{
+        width:100%;
+        padding:0;
+    }
+    .car-detail.used{
+        max-width:100%;
+    }
+    .used-car-listing .product-wrapper.portrait{
+        width:100%;
+    }
+    .portrait .car-img img{
+        height:auto;
+    }
+    .portrait .list-items{
+        width:100%;
+    }
+    .portrait p{
+        width:100%;
+    }
+    .portrait .product .vehicles-extra-link ul{
+        margin:0;
+    }
+    .portrait .product .vehicles-extra-link ul li{
+        padding:0;
+        width:100%;
+    }
+    .portrait .monthly-installment ul li {
+        font-size: 18px;
+    }
+    .portrait h2 {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .portrait .monthly-installment ul li span{
+        font-size:11px;
+    }
+    .detail-tabs .tab-content .coll{
+        width:100%;
+    }
+    
+}
+
+@media all and (max-width: 600px) {
+    .logo img {
+        margin: 0;
+    }
+    /*Car Detail New*/
+    .detail-tabs .tabs-opener {
+        
+    }
+    .detail-tabs .tabs-opener li{
+        width:100%;
+    }
+    .detail-tabs .tabs-opener li:nth-of-type(n+2) a{
+        margin:0;
+    }
+    .detail-tabs .tab-content{
+        padding:20px 10px;
+    }
+    .detail-tabs.car-detail-new .tabs-opener li {
+        display: block;
+        width: 100%;
+        border: 0;
+        border-bottom: 1px solid #c40f14;
+        padding: 2px 5px;
+    }
+
+    .detail-tabs .tab-content .brochure-form .column-holder .coll {
+        display: block;
+        width: 100%;
+        margin: 0;
+    }
+
+        .new-car-config .tabs-opener li a span {
+            font-size: 9px;
+            line-height: 10px;
+        }
+
+    .new-car-config .tab-content .column-holder {
+        text-align: center;
+    }
+
+        .new-car-config .tab-content .column-holder .coll {
+            float: none;
+            display: inline-block;
+            vertical-align: top;
+            width: 30%;
+        }
+
+            .new-car-config .tab-content .column-holder .coll.extra {
+                display: block;
+                width: 100%
+            }
+
+                .new-car-config .tab-content .column-holder .coll.extra ul li {
+                    width: 30%;
+                }
+
+    /*Car Detail New End*/
+    /*car-bodywork End*/
+    .car-bodywork .bodywork-area .node {
+        width: 45%;
+        margin: 0 2% 20px;
+    }
+
+        .car-bodywork .bodywork-area .node .title {
+            font-size: 12px;
+        }
+    /*car-bodywork*/
+    /*Car detail Used*/
+    .detail-tabs.car-detail-used .tabs-opener li {
+        display: block;
+        width: 100%;
+        border: 0;
+        border-bottom: 1px solid #c40f14;
+        padding: 2px 5px;
+    }
+    /*Car detail Used End*/
+    /*Branch Detail Page*/
+    .address-area h1 {
+        font-size: 20px;
+        line-height: 24px;
+        margin: 0 0 10px;
+    }
+
+    .address-area .address {
+        float: none;
+        width: 100%;
+        margin: 0 0 10px;
+    }
+
+    .address-area .map {
+        float: none;
+        width: 100%;
+        margin: 0 0 10px;
+    }
+
+    .direction .alignleft {
+        float: none;
+        width: 100%;
+        margin: 0 0 10px;
+    }
+
+    .direction .alignright {
+        float: none;
+        overflow: hidden;
+        width: 100%;
+    }
+
+    .about-area .about-text {
+        float: none;
+        width: 100%;
+        margin: 0 0 10px;
+    }
+
+    .about-area .about-img {
+        float: none;
+        width: 100%;
+        margin: 0 0 10px;
+        border: 0;
+    }
+
+    .brands-detail .post .post-img {
+        float: none;
+        width: 17%;
+        margin: 0 0 10px;
+    }
+
+    .brands-detail .post .post-text {
+        float: none;
+        width: 100%;
+        margin: 0 0 0 2%;
+    }
+
+    .vacancies .vacancies-text {
+        display: block;
+        width: 100%;
+        min-height: inherit;
+        margin: 0 0 10px;
+    }
+
+    .vacancies .vacancies-img {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+
+    .tab-contect-footer .custom-btn {
+        display: block !important;
+    }
+    /*Branch Detail Page End*/
+    .newcar-wrapper {
+        width: 50%;
+    }
+
+    .kap-find-vehicle ul li {
+        width: 100%;
+    }
+
+    .service-center {
+        display: table;
+    }
+
+        .service-center .service-content {
+            width: 100%;
+            padding: 0;
+            float: none;
+            display: table-footer-group;
+        }
+
+        .service-center .service-image {
+            padding: 0;
+            width: 100%;
+            float: none;
+            display: table-header-group;
+        }
+
+    .kap-container .special-offer ul li {
+        width: 100%;
+    }
+
+    .kap-customers ul li {
+        width: 100%;
+    }
+
+    .car-finance {
+        max-width: 100%;
+    }
+    .monthly-installment img {
+        width: 22%;
+    }
+    .form.enquiry-form .col-30,
+    .form.enquiry-form .col-70,
+    .form.enquiry-form .col-50{
+        width:100%;
+    }
+}
+
+@media all and (max-width: 480px) {
+    /*Car listing Used*/
+    .refine-search .tab {
+        min-height: 190px;
+    }
+
+    .refine-search {
+        padding: 15px 2%;
+    }
+
+        .refine-search .btn-area .tabs-opener {
+            float: none;
+            margin: 0 0 10px;
+            overflow: hidden;
+            width: 100%;
+        }
+
+        .refine-search .btn-area .btn-refine-search {
+            float: none;
+            margin: 0;
+            width: 100%;
+        }
+
+        .refine-search .classic-search .jcf-select {
+            width: 31%;
+            margin: 0 1% 15px 0;
+        }
+
+        .refine-search .column-holder .coll.dropdown {
+            width: 100%;
+            margin: 0;
+            text-align: center;
+        }
+
+        .refine-search .column-holder .coll.colour-area {
+            width: 19%;
+        }
+
+        .refine-search .column-holder .coll.requirement {
+            padding: 0 0 0 2%;
+            width: 78%;
+        }
+
+        .refine-search .jcf-select {
+            margin: 0 1% 10px 0;
+        }
+
+        .refine-search .column-holder .coll {
+            padding: 0 0 0 2%;
+            width: 38%;
+        }
+
+        .refine-search .title {
+            margin: 0 0 3px;
+            text-align: center;
+            font-size: 15px;
+        }
+
+        .refine-search .colour {
+            float: none;
+            display: inline-block;
+            vertical-align: top;
+            margin: 0 2px 5px;
+        }
+
+        .refine-search .column-holder .coll .checkbox-area .holder {
+            padding: 0 0 3px;
+        }
+
+        .refine-search .column-holder .coll .checkbox-area .jcf-checkbox {
+            display: inline-block;
+            margin: 0 auto;
+            width: 12px;
+            height: 12px;
+        }
+
+            .refine-search .column-holder .coll .checkbox-area .jcf-checkbox span {
+                width: 9px;
+                height: 5px;
+                margin: -3px 0 0 -5px;
+            }
+
+        .refine-search label {
+            display: inline-block;
+            text-align: center;
+        }
+    /*Car listing Used End*/
+    /*internal-links*/
+    .internal-links ul li {
+        margin: 0 0.7% 20px;
+    }
+    /*internal-links End*/
+    /*why-section*/
+    .why-section .alignleft {
+        border-right: 0;
+        margin: 0 0 10px;
+        width: 100%;
+        float: none;
+    }
+
+    .why-section .alignright {
+        width: 100%;
+        float: none;
+    }
+
+    .why-section h2 {
+        font-size: 28px;
+        line-height: 30px;
+    }
+
+    .why-section .alignright h3 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    /*why-section End*/
+    /*Contact Us Form*/
+    .contact-us {
+        padding: 0 10px 0;
+    }
+
+        .contact-us .form .align-left {
+            width: 100%;
+            float: none;
+        }
+
+        .contact-us .form .align-right {
+            float: none;
+            width: 100%;
+        }
+
+        .contact-us .form .row input[type="text"],
+        .contact-us .form .row input[type="tel"],
+        .contact-us .form .row input[type="email"] {
+            width: 100%;
+        }
+
+        .contact-us .form .row .jcf-select {
+            width: 100%;
+        }
+
+        .contact-us .form .row textarea {
+            height: 180px !important;
+        }
+
+        .contact-us .form .row .btn {
+            padding: 10px;
+            font-size: 18px;
+            line-height: 19px;
+        }
+
+    .banner-text h1 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    /*Contact Us Form End*/
+    /*internal links*/
+    .internal-links ul li h3 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .internal-links ul li .more {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    /*internal links End*/
+    /*recruitment area*/
+    .branch-vacancies ul li {
+        width: 46%;
+    }
+
+        .branch-vacancies ul li h3 {
+            font-size: 12px;
+        }
+
+        .branch-vacancies ul li .img-area {
+            height: 140px;
+            margin: 0 0 10px;
+        }
+
+        .branch-vacancies ul li .btn {
+            word-spacing: 0;
+        }
+    /*recruitment area end*/
+    /*testimonials-area*/
+    .testimonials-area .testimonial-list > li .align-left {
+        float: none;
+        width: 100%;
+    }
+
+    .testimonials-area .testimonial-list > li .align-right {
+        float: none;
+        width: 100%;
+        padding: 10px 0 0 20px;
+    }
+    /*testimonials-area End*/
+    /*alloy wheel refurb*/
+    .refurbishment-pricing ul li {
+        width: 47%;
+    }
+
+        .refurbishment-pricing ul li .text .price {
+            font-size: 25px;
+            line-height: 28px;
+        }
+
+        .refurbishment-pricing ul li .img-area {
+            margin: 0 0 10px;
+        }
+    /*alloy wheel refurb end*/
+    /*enquiry section*/
+    .enquiry-section .align-left {
+        float: none;
+        width: 100%;
+    }
+
+    .enquiry-section .align-right {
+        float: none;
+        width: 100%;
+    }
+    /*enquiry section end*/
+    /*servicing Form*/
+    .service-area legend {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .service-area .choose-service-area ul li {
+        width: 47%;
+    }
+
+        .service-area .choose-service-area ul li .name {
+            font-size: 12px;
+        }
+
+    .service-area .other-service-area ul .jcf-checkbox {
+        margin: 1px 5px 0 0;
+    }
+
+    .service-area button.btn {
+        width: 87px;
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .service-area .quote-area button.btn {
+        margin: 0 4px;
+    }
+
+    .service-area .detail-form .coll {
+        float: none;
+        margin: 0 0 10px !important;
+        width: 100%;
+    }
+
+        .service-area .detail-form .coll .row label {
+            float: left;
+            width: 48%;
+            margin: 0 1% 0 0;
+            font-size: 14px;
+            line-height: 16px;
+        }
+
+        .service-area .detail-form .coll .row input[type="text"],
+        .service-area .detail-form .coll .row input[type="tel"],
+        .service-area .detail-form .coll .row input[type="email"] {
+            float: left;
+            width: 50%;
+        }
+
+        .service-area .detail-form .coll .row .jcf-select {
+            width: 50%;
+            margin: 0;
+        }
+    /*servicing Form End*/
+    /* Brand Parts Area*/
+    .brand-parts ul li {
+        width: 45%;
+        margin: 0 2% 20px;
+    }
+    /* Brand Parts Area End*/
+    /*car finance*/
+    .new-car-config .tab-content h3,
+    .car-finance h3 {
+        font-size: 20px;
+        line-height: 22px;
+    }
+
+    .car-finance .form-area .apply-for {
+        margin: 0 0 10px;
+    }
+
+    .car-finance .finance-application legend {
+        font-size: 22px;
+        line-height: 24px;
+    }
+
+    .car-finance .finance-application .car-bodywork legend {
+        margin: 0 auto 20px;
+    }
+
+    .car-finance .finance-application .coll {
+        display: block;
+        width: 100%;
+        margin: 0 0 14px;
+    }
+
+    .car-finance .finance-application.sell-my-car-form .extra-vehicle-details .coll {
+        margin: 0 0 14px;
+    }
+
+    .car-finance .finance-application .coll .row .holder input[type="text"] {
+        float: none;
+        width: 100%;
+        margin: 0 0 5px;
+    }
+
+    .car-finance .finance-application .coll .row .jcf-file {
+        float: right;
+        width: 50%;
+    }
+
+    .car-finance .finance-application .row .holder {
+        clear: both;
+    }
+    /*car finance End*/
+    /*New Car Listing*/
+    .cars-listing .post {
+        width: 47%;
+    }
+    /*New Car Listing End*/
+    /*Branches Area CSS*/
+    .branches-area .branche {
+        width: 47%;
+    }
+    /*Branches Area CSS End*/
+    /*Car Brand Page CSS*/
+    .find-vehicle h3 {
+        margin: 0 0 10px;
+        font-size: 28px;
+        line-height: 30px;
+    }
+
+    .find-vehicle .find-vehicle-form select {
+        font-size: 15px;
+        margin: 0 0 5px;
+    }
+
+    .find-vehicle .result {
+        margin: 0 0 5px;
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+        .find-vehicle .result em,
+        .find-vehicle .result i {
+            font-size: 16px;
+            line-height: 18px;
+        }
+
+    .find-vehicle .row.btn-area button {
+        font-size: 11px;
+    }
+
+    .find-vehicle .cash-price,
+    .find-vehicle .monthly-price {
+        font-size: 15px;
+    }
+
+    .sell-vehicel {
+        min-height: inherit;
+    }
+
+    .post-area.vehicels .post .sell-vehicel h2 {
+        margin: 0 0 10px;
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .sell-vehicel .slogen {
+        float: none;
+        display: block;
+        margin: 0 0 10px;
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+        .sell-vehicel .slogen em {
+            font-size: 13px;
+            line-height: 15px;
+        }
+
+    .sell-vehicel .img {
+        display: none;
+    }
+
+    .sell-vehicel .sell-vehicel-form-area {
+        display: block;
+        margin: 0;
+        min-height: inherit;
+        text-align: center;
+        width: 100%;
+    }
+
+    .sell-vehicel .slogen {
+        max-width: inherit;
+    }
+
+    .sell-vehicel form input[type="text"] {
+        display: block;
+        width: 80%;
+        margin: 0 auto 10px;
+        font-size: 30px;
+        line-height: 36px;
+    }
+
+    .sell-vehicel form label {
+        display: block;
+        max-width: inherit;
+        margin: 0 0 10px;
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .sell-vehicel form .submit-btn {
+        display: block;
+        margin: 0 auto;
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+        .sell-vehicel form .submit-btn i {
+            margin: 0;
+        }
+
+    #main .home-slides.brand-page .servicing-area {
+        padding: 0 10px;
+    }
+
+        #main .home-slides.brand-page .servicing-area .car-aervice,
+        .servicing-area .car-aervice {
+            background: none;
+            height: auto;
+            padding: 10px 15px 15px;
+        }
+
+            .servicing-area .car-aervice .post {
+                margin: 0;
+                width: 100%;
+            }
+
+                .servicing-area .car-aervice .post h3 {
+                    margin: 0 0 10px;
+                    font-size: 25px;
+                    line-height: 28px;
+                }
+
+                .servicing-area .car-aervice .post p {
+                    font-size: 12px;
+                    line-height: 14px;
+                    margin: 0 0 10px;
+                }
+
+            .servicing-area .car-aervice form input[type="text"] {
+                margin: 0 auto 10px;
+                font-size: 28px;
+                line-height: 36px;
+            }
+
+            .servicing-area .car-aervice form button {
+                margin: 0 auto;
+                font-size: 14px;
+                line-height: 16px;
+            }
+    /*Car Brand Page CSS End*/
+    /*Latest Vehical Css*/
+    .latest-vehicles .bx-wrapper ul li { /*width:212px !important;*/
+    }
+
+        .latest-vehicles .bx-wrapper ul li .car {
+            width: 100%;
+        }
+    /*Latest Vehical Css End*/
+    /*Car Search New*/
+    .car-search-area {
+        margin: 0;
+    }
+
+    .choose-service-area .search-area blockquote q {
+        width: 100%;
+        float: none;
+        display: block;
+        margin: 10px 0 0;
+    }
+
+    .choose-service-area .search-area .tabs-opener .tab-link {
+        display: block;
+        width: 95%;
+        margin: 0 auto 5px;
+        border-radius: 5px;
+    }
+
+        .choose-service-area .search-area .tabs-opener .tab-link.lifestyle {
+            margin: 0 auto;
+            border-radius: 5px;
+        }
+
+    .car-search-area .tab.classic-search .car-search-selection .row.option-area {
+        display: inline;
+        vertical-align: top;
+    }
+
+        .car-search-area .tab.classic-search .car-search-selection .row.option-area .jcf-select {
+            width: 47%;
+        }
+
+    .car-search-area .tab.classic-search .car-search-selection .colour-area {
+        width: 100%;
+        margin: 0;
+    }
+
+        .car-search-area .tab.classic-search .car-search-selection .colour-area .colour {
+            width: 29px;
+            height: 29px;
+            margin: 0 0 10px;
+        }
+
+    .car-search-area .car-search-selection .btn {
+        margin: 0 0 5px;
+    }
+
+    .car-search-area .car-search-selection .colour {
+        height: 25px;
+        width: 25px;
+    }
+
+    .car-search-area .car-search-selection .coll-holder .coll label {
+        font-size: 10px;
+        line-height: 12px;
+    }
+
+    .car-search-area .car-search-selection .coll-holder .coll .jcf-checkbox {
+        margin: 0 0 10px;
+    }
+
+    .car-search-area .tab.classic-search .car-search-selection .row.option-area .jcf-select .jcf-select-text {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .car-search-selection .budget-rang-area .divider-area .divider:nth-child(1),
+    .car-search-selection .budget-rang-area .divider-area .divider:nth-child(3),
+    .car-search-selection .budget-rang-area .divider-area .divider:nth-child(5),
+    .car-search-selection .budget-rang-area .divider-area .divider:nth-child(7) {
+        display: none;
+    }
+
+    .car-search-selection .budget-rang-area .label:nth-child(2),
+    .car-search-selection .budget-rang-area .label:nth-child(4),
+    .car-search-selection .budget-rang-area .label:nth-child(6),
+    .car-search-selection .budget-rang-area .label:nth-child(8) {
+        display: none;
+    }
+
+    .car-search-selection .running-costs-area .label:nth-child(1),
+    .car-search-selection .drving-speed-area .label:nth-child(1),
+    .car-search-selection .inusrance-costs-area .label:nth-child(1) {
+        left: -2%;
+    }
+
+    .car-search-selection .label:nth-child(3) {
+        left: 19%;
+    }
+
+    .car-search-selection .label:nth-child(9) {
+        left: 95%;
+    }
+
+    .car-search-selection .running-costs-area .label:nth-child(2) {
+        left: 13%;
+    }
+
+    .car-search-selection .drving-speed-area .label:nth-child(2) {
+        left: 13%;
+    }
+
+    .car-search-selection .drving-speed-area .label:nth-child(4) {
+        left: 67.5%;
+    }
+
+    .car-search-selection .inusrance-costs-area .label:nth-child(2) {
+        left: 16%;
+    }
+
+    .car-search-selection .inusrance-costs-area .label:nth-child(3) {
+        left: 41%;
+    }
+
+    .car-search-selection .inusrance-costs-area .label:nth-child(4) {
+        left: 67%;
+    }
+
+    .car-search-selection .inusrance-costs-area .label:nth-child(5) {
+        left: 89%;
+        width: 57px;
+    }
+    /*Car Search New End*/
+    /*Car Detail New*/
+        .detail-tabs .tab-content .column-holder .coll dl {
+            margin: 0 0 20px;
+        }
+
+        .detail-tabs .tab-content .column-holder .coll .note {
+            margin: 0 0 20px;
+        }
+
+    .detail-tabs .tab-content .gallery-frame #bx-pager a {
+        max-width: 14%;
+        margin: 0 0.5%;
+    }
+
+    .new-car-config .tabs-opener {
+        margin: 0 0 20px;
+    }
+
+        .new-car-config .tabs-opener li.config {
+            width: 100%;
+            margin: 0 0 5px;
+            text-align: center;
+        }
+
+    .new-car-config .tab-content .column-holder .coll {
+        width: 43%;
+        margin: 0 3% 25px;
+    }
+
+        .new-car-config .tab-content .column-holder .coll.extra ul li {
+            width: 44%;
+            margin: 0 3% 10px;
+        }
+
+    .new-car-config .tab-content .detail-form input[type="text"],
+    .new-car-config .tab-content .detail-form input[type="tel"],
+    .new-car-config .tab-content .detail-form input[type="email"] {
+        display: block;
+        width: 100%;
+        margin: 0 0 5px;
+    }
+
+    .new-car-config .tab-content .enquiry-area .enquiry-form .jcf-select {
+        width: 100%;
+        height: 34px;
+        margin: 0 0 5px;
+    }
+
+        .new-car-config .tab-content .enquiry-area .enquiry-form .jcf-select .jcf-select-text {
+            line-height: 31px;
+            font-size: 18px;
+        }
+
+    .car-finance .price-detail-area .col .row label {
+        float: none;
+        display: block;
+        width: 100%;
+        margin: 0 0 5px;
+    }
+
+    .car-finance .price-detail-area .col .row input,
+    .car-finance .price-detail-area .col .row select,
+    .car-finance .price-detail-area .col .row span {
+        width: 94%;
+    }
+    /*Car Detail New End*/
+    /*Home Page*/
+    .brands-area .brand {
+        width: 45%;
+    }
+
+        .brands-area .brand .holder {
+            height: 150px;
+        }
+
+    .sell-vehicel {
+        max-width: 290px;
+    }
+
+    .find-vehicle {
+        max-width: 290px;
+    }
+    /*Home Page End*/
+    .sub-nav.mobile .swiper-container {
+        width: 83%;
+    }
+
+    .new-car-config .tab-content .enquiry-area .enquiry-form .input-holder {
+        width: 100%;
+    }
+
+    .car-finance .finance-application.sell-my-car-form .step {
+        padding: 0 10px;
+    }
+
+    .refine-search label em {
+        display: inline-block;
+    }
+
+    .car-finance .finance-application .coll .row .radio-area {
+        float: none;
+        text-align: left;
+    }
+
+    .form label.error {
+        font-size: 14px;
+    }
+
+    .stylingWrapper .title {
+        margin: 0 10px 0;
+    }
+
+    .latest-vehicles h2 {
+        text-align: center;
+    }
+
+    .detail-tabs .tab-content section.feature .column-holder .coll ul li {
+        width: 50%;
+    }
+
+    .detail-tabs .tab-content section.technical-data .column-holder .coll {
+        width: 100%;
+    }
+
+    .newcar-wrapper {
+        width: 100%;
+    }
+
+    .slider-overlay {
+        margin-bottom: 200px;
+    }
+
+    .four-col-item {
+        width: 50%;
+    }
+
+    .kap_tab_content .kap-services li {
+        width: 33%;
+    }
+
+        .kap_tab_content .kap-services li a .list-circle {
+            height: 90px;
+        }
+}
+
+@media all and (max-width: 380px) {
+    .filters .pagination {
+        margin: 2px 0 0;
+    }
+
+    .pagination .pages {
+        float: none;
+        display: block;
+        text-align: center;
+        font-size: 11px;
+        line-height: 13px;
+    }
+
+    .pagination ul {
+        float: none;
+        display: block;
+        overflow: hidden;
+        font-size: 11px;
+        line-height: 13px;
+    }
+
+    .cars-listing.used .car-detail-content .car-content .m-header .price {
+        font-size: 13px;
+        line-height: 15px;
+        width: 100%;
+        text-align: left;
+    }
+
+    .cars-listing.used .car-detail-content .car-content .m-header .monthly-payment {
+        font-size: 13px;
+        line-height: 15px;
+    }
+
+    
+    .car-detail .feature ul li span {
+        font-size: 7px;
+        line-height: 8px;
+    }
+
+    .latest-vehicles .bx-wrapper ul li {
+        /*width:290px !important;
+margin:0 20px;*/
+    }
+
+        .latest-vehicles .bx-wrapper ul li .car {
+            padding: 0 5px;
+        }
+
+    .car-finance .finance-application .row .btn-1 {
+        width: 194px;
+        font-size: 21px;
+    }
+
+        .car-finance .finance-application .row .btn-1 em {
+            margin: 1px 0 0;
+        }
+    /*Car Search New End*/
+    .car-search-selection .label {
+        font-size: 11px;
+    }
+
+    .car-search-selection .running-costs-area .label:nth-child(1),
+    .car-search-selection .drving-speed-area .label:nth-child(1),
+    .car-search-selection .inusrance-costs-area .label:nth-child(1) {
+        left: -2%;
+    }
+
+    .car-search-selection .label:nth-child(3) {
+        left: 16%;
+    }
+
+    .car-search-selection .label:nth-child(5) {
+        left: 44%;
+    }
+
+    .car-search-selection .label:nth-child(9) {
+        left: 95%;
+    }
+
+    .car-search-selection .running-costs-area .label:nth-child(2) {
+        left: 13%;
+    }
+
+    .car-search-selection .drving-speed-area .label:nth-child(2) {
+        left: 13%;
+    }
+
+    .car-search-selection .drving-speed-area .label:nth-child(4) {
+        left: 67.5%;
+    }
+
+    .car-search-selection .inusrance-costs-area .label:nth-child(2) {
+        left: 16%;
+    }
+
+    .car-search-selection .inusrance-costs-area .label:nth-child(3) {
+        left: 41%;
+    }
+
+    .car-search-selection .inusrance-costs-area .label:nth-child(4) {
+        left: 67%;
+    }
+
+    .car-search-selection .inusrance-costs-area .label:nth-child(5) {
+        left: 89%;
+        width: 57px;
+    }
+    /*Car Search New End*/
+}
+
+@media only screen and (min-width:980px) and (max-width:1024px) {
+    .detail-tabs .tab-content .gallery-frame {
+        max-width: 800px;
+    }
+}
